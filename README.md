@@ -22,7 +22,9 @@ Spreadsheet de notas y asistencia: PENDING
 
 # Cómo funciona el curso
 
-Este curso es 100% práctico. La nota final dependerá de la resolución por parte del alumno de problemas de programación competitiva. Cada cierto tiempo (una vez cada 1 o 2 semanas) se publicará un *contest* (o competencia, en español). Los contests se caracterizan por lo siguiente:
+## 1) Competencias Semanales
+
+Este curso es 100% práctico. La nota final dependerá de la resolución por parte del alumno de problemas de programación competitiva. Cada semana se publicará un *contest* (o competencia, en español). Los contests se caracterizan por lo siguiente:
 
 * Se publicarán en [vjudge.net](https://vjudge.net), un sitio web que permite crear competencias utilizando problemas obtenidos de múltiples jueces online, con un scoreboard que se actualiza en tiempo real a medida que los participantes resuelven problemas. Para competir es necesario que te crees una cuenta en [vjudge.net](https://vjudge.net) y posteriormente que te unas con dicha cuenta a los contests a medida que estos vayan siendo publicados. Para facilitarnos el registro de problemas resueltos, te pedimos por favor que registres el **nickname** de tu cuenta en el siguiente spreadsheet: (PENDING)
 
@@ -43,6 +45,12 @@ Este curso es 100% práctico. La nota final dependerá de la resolución por par
 * En general los contests tendrán una duración de un poco más de una semana (9 o 10 días), lo cual implica que durante los últimos días habrá algo de traslapo con el contest de la siguiente semana. No obstante, con el fin de que se acostumbren a programar contra reloj, habrá una penalización por resolver problemas pasado un cierto horario. En concreto, cada problema resuelto entre las 15:30 y las 23:59 del día que comenzó el contest proporcionará su puntaje original. En cambio, problemas que se resuelvan pasadas las 23:59 serán penalizados por un factor de 0.8. Es decir, _puntaje_tarde_ = _puntaje_original_ * 0.8
 
 * Al final del semestre habrá un contest de repechaje. Este contest tendrá muchos problemas y durará hasta la fecha del cierre de notas. Sin embargo, el puntaje de estos problemas será penalizado con un factor de 0.5. Es decir, _puntaje_repechaje_ = _puntaje_original_ * 0.5. Por lo tanto, el consejo obvio es resolver problemas periódicamente de forma responsable, para no tener que trabajar el doble en el contest de repechaje :)
+
+## 2) Asistencia
+
+El curso es con **asistencia reprobatoria**. Los alumnos que registren una asistencia al final del semestre inferior a 65% **reprobarán el curso**. Cada clase se pasará lista. Aunque no es necesario que te quedes los 3 módulos, con que vengas al menos a 1 módulo es suficiente para quedar presente.
+
+## 3) Bonuses
 
 * __BONUS EXPLICACIÓN PROBLEMA DIFÍCIL__ (individual): Este bonus permite obtener hasta un máximo de 3 décimas cada vez, las que se sumarán directamente a su nota final. ¿Cómo obtener este bonus?:
   * El alumno debe sacar _accepted_ en un problema difícil que casi nadie más haya podido resolver. El problema debe pertenecer a alguno de los contests del semestre y puede ser resuelto en modo _upsolving_ también (no es obligatorio alcanzar a resolverlo dentro de plazo).
