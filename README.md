@@ -3,7 +3,7 @@
 ## 2019-1
 
 # Introducción
-En este curso aprenderás las técnicas y habilidades necesarias para resolver problemas algorítmicos de [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) tales como los que aparecen en la [ACM ICPC](https://icpc.baylor.edu/), [Codeforces](http://www.codeforces.com/), [Codechef](https://www.codechef.com/), [Topcoder](https://www.topcoder.com/) y [HackerRank](https://www.hackerrank.com/).
+En este curso aprenderás las técnicas y habilidades necesarias para resolver problemas algorítmicos de [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) tales como los que aparecen en la [ACM ICPC](https://icpc.baylor.edu/), [Codeforces](http://www.codeforces.com/), [Codechef](https://www.codechef.com/), [Topcoder](https://www.topcoder.com/) y [HackerRank](https://www.hackerrank.com/). La mayor parte de tu tiempo te la pasarás escribiendo programas para resolver problemas.
 
 L@s mejores estudiantes podrán ser seleccionad@s para representar a la universidad en la [ICPC South America/South Finals](https://icpc.baylor.edu/regionals/finder/southamerica-south-2018), la competencia regional en la que Chile participa durante noviembre cada año, e inclusive posiblemente clasificar a las [World Finals](https://icpc.baylor.edu/).
 
