@@ -105,7 +105,7 @@ Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye docum
 5) Si las explicaciones teóricas y recursos estándar de referencia no son suficientes, como medida de **desesperación** y **último recurso** te está éticamente permitido mirar soluciones ajenas de ejemplo. Sin embargo, **por ningún motivo hagas copy-paste**. Lo que debes hacer es tratar de entender el código y sacar ideas a partir de él que te permitan programar tu propia solución. El objetivo es que aprendas. Si haces copy-paste, ¿estarás aprendiendo algo?
 6) Finalmente, ten presente que vjudge.net le otorga al autor de un contest acceso a las soluciones de los participantes. Sí. Podemos ver sus códigos. Si alguien [misteriosamente](https://youtu.be/HQoRXhS7vlU) resuelve un problema difícil, tenga la seguridad de que con probabilidad muy alta su código será examinado.
 
-El castigo por copia consistirá en lo siguiente:
+El **castigo por copia** consistirá en lo siguiente:
 1) Primera copia: nota_final = max(min(nota_v3, 7) - 3, 1)
 2) Segunda copia: nota_final = 1 + causal de eliminación
 
