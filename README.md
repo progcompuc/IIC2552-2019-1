@@ -105,6 +105,19 @@ Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye docum
 5) Si las explicaciones teóricas y recursos estándar de referencia no son suficientes, como medida de **desesperación** y **último recurso** te está éticamente permitido mirar soluciones ajenas de ejemplo. Sin embargo, **por ningún motivo hagas copy-paste**. Lo que debes hacer es tratar de entender el código y sacar ideas a partir de él que te permitan programar tu propia solución. El objetivo es que aprendas. Si haces copy-paste, ¿estarás aprendiendo algo?
 6) Finalmente, ten presente que vjudge.net le otorga al autor de un contest acceso a las soluciones de los participantes. Sí. Podemos ver sus códigos. Si alguien [misteriosamente](https://youtu.be/HQoRXhS7vlU) resuelve un problema difícil, tenga la seguridad de que con probabilidad muy alta su código será examinado, y si se llega a detectar copy-paste, no le irá muy bien.
 
+# Temario tentativo del Semestre
+
+Individual
+* Implementación, Fuerza Bruta, Backtracking (3 semanas)
+* Binary Search (1 semana)
+* DP básico (2 semanas)
+* Grafos básico (2 semanas)
+* Matemática (2 semanas)
+* Geometría básica (1 semana)
+
+Grupal
+* Tutifruti (de todo, resto del semestre)
+
 # Comentarios Adicionales
 ### Sobre lenguajes de programación
 En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso Time Limit Exceeded (TLE), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, les recomendamos aprovechar los primeros 3 contests en división 2 para aprender a programar en C++. Más abajo pueden encontrar harto material de estudio al respecto.
