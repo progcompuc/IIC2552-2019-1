@@ -95,31 +95,24 @@ La nota final del curso se calculará de la siguiente manera:
    * Nota_v3 = Nota_v2 + BONUS EXPLICACIÓN PROBLEMA + BONUS RPC + BONUS Codeforces
 * Todo lo anterior se encuentra formalizado en el [spreadsheet de asistencia y notas](TODO AGREGAR)
 
-### Reglas (Ética)
-Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye como documentación de tu lenguaje, descripciones de algoritmos, implementaciones estándar de cierto algoritmos como referencia, wikipedia, youtube, libros, tutoriales, etc. En caso de **desesperación**, está permitido incluso mirar soluciones de ejemplo. Sin embargo, **la copia descarada de soluciones ajenas** está terminantemente **prohibida**. Nuestra recomendación al enfrentar problemas es la siguiente:
+# Reglas (Ética)
+Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye documentación de tu lenguaje de programación, descripciones de algoritmos, implementaciones estándar de ciertos algoritmos como referencia, wikipedia, youtube, libros, tutoriales, etc. En caso de **desesperación**, está permitido incluso mirar soluciones de ejemplo. Sin embargo, **la copia descarada de soluciones ajenas** está terminantemente **prohibida**. Nuestra recomendación al enfrentar problemas es la siguiente:
 1) Primero intenta resolver el problemo por ti mism@, trata de no usar ningún recurso externo excepto por quizá documentación del lenguaje de programación que estás usando (por ej. si es que se te olvidó cómo se usaba cierta cosa de la librería estándar)
 2) Si el problema está muy difícil, intenta resolver otro problema más fácil del contest
-3) Eventualmente si llegas a punto en que te sientes pegad@ con todos los problemas que quedan, entonce parte por pedir ayuda. Puedes
-1) no buscar explicaciones / soluciones de problemas **a menos que ya estén rendidos intelectualmente**
-2) **nunca hacer copy-paste de soluciones ajenas**, sino que deben **entender** la solución (teoría + implementación) y ser capaces de programar dicha solución por ustedes mismos después (la idea es que aprendan, si hacen copy-paste no van a estar aprendiendo nada)
+3) Eventualmente si llegas a punto en que te sientes pegad@ con todos los problemas que quedan, entonces es tiempo de pedir ayuda. Durante la clase te animamos a discutir el problema con otros compañer@s o con el staff. Fuera de la clase, puedes leer las explicaciones que vayamos subiendo a los google docs o bien puedes hacer preguntas en el Telegram del curso.
+4) Si lo anterior no es suficiente, puedes googlear explicaciones teóricas (palabras) en internet. También puedes consultar materiald e estudio, códigos de estructuras de datos y algoritmos estándar, etc. Tienes todo el internet a tu disposición. Si haces esto, por favor **incluye las referencias en tu código**, explicando qué fuentes consultaste y en qué te ayudaron.
+5) Si las explicaciones teóricas y recursos estándar de referencia no son suficientes, como medida de **desesperación** y **último recurso** te está éticamente permitido mirar soluciones ajenas de ejemplo. Sin embargo, **por ningún motivo hagas copy-paste**. Lo que debes hacer es tratar de entender el código y sacar ideas a partir de él que te terminan programar tu propia solución. El objetivo es que aprendas. Si haces copy-paste, ¿estarás aprendiendo algo?
+6) Además, tengan presente que vjudge.net le otorga al autor de un contest acceso a las soluciones de los participantes. Sí. Podemos ver sus códigos. Si alguien misteriosamente resuelve un problema difícil, tenga la seguridad que con probabilidad muy alta su código será examinado, y si se llega a detectar copy-paste, no le irá muy bien.
 
-
-# IMPORTANTE: mensaje para los alumnos nuevos
-El nivel de dificultad de los problemas en las regionales ICPC es bien alto, y por lo tanto un buen entrenamiento requiere que los alumnos sean expuestos a problemas de ese nivel. Sin embargo, entendemos que tirar a los alumnos nuevos "a los leones" de golpe puede ser un poco traumático. Por lo tanto, para los primeros 3 contests tendremos dos divisiones: división 1 (más difícil) y división 2 (más fácil). Los alumnos nuevos pueden optar por participar en la división 2 si así lo desean.
-
-### IMPORTANTE: sobre lenguajes de programación
+# Comentarios Adicionales
+### Sobre lenguajes de programación
 En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso Time Limit Exceeded (TLE), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, les recomendamos aprovechar los primeros 3 contests en división 2 para aprender a programar en C++. Más abajo pueden encontrar harto material de estudio al respecto.
 
-### IMPORTANTE: tips generales parar resolver problemas
+### Sobre restricciones de tiempo y memoria en programación competitiva
  - En C++, en general pueden hacer un poco más de **10^8 operaciones por segundo** (una estimación bien al ojo por experiencia con diferentes jueces online).
  - Siempre estimen la [**complejidad computacional**](https://en.wikipedia.org/wiki/Time_complexity) de su algoritmo y **evalúenla con el caso de prueba más grande** (peor caso). Por ejemplo, si un problema depende de N donde 1 <= N <= 10^5 y mi algoritmo es cuadrático (complejidad = O(N^2)), entonces en el peor caso haré (10^5)^2 = 10^10 operaciones, y por ende según el punto anterior necesitaría **100 segundos** para correrlo. En cambio, si mi algoritmo tiene complejidad O(N\*log(N)) entonces en el peor caso sólo haré 10^5 * log(10^5) = 1.7 * 10^6 operaciones (aprox.), y por ende sólo necesitaría **0.017 segundos** (la nada misma) para correrlo. Entonces, si mi problema tiene un tiempo máximo de ejecución de 2 segundos, ¿qué algoritmo va a funcionar? Claramente el segundo.
  - Si van a usar mucha memoria, preocúpense de **no pasarse del límite de memoria permitido**. Por ejemplo si les dan 256MB de memoria, en bytes eso es 256 * 1024 * 1024 = 268435456 bytes, un int32 ocupa 4 bytes, así que como máximo podrían crear un arreglo de int32 de largo 67108864 = 6.7 * 10^7 aprox (o la mitad si usan un int64, un double, etc.). También podría acabárseles la memoria si hacen demasiadas llamadas recursivas [[1](https://codeforces.com/blog/entry/47003), [2](https://stackoverflow.com/a/11777585/2801404)].
 
-### IMPORTANTE: sobre ética
-En este curso está totalmente permitido buscar en internet material, explicaciones e incluso ejemplos de soluciones de problemas. Tienen todo el internet a su disposición. Las únicas reglas que deben cumplir son:
-1) no buscar explicaciones / soluciones de problemas **a menos que ya estén rendidos intelectualmente**
-2) **nunca hacer copy-paste de soluciones ajenas**, sino que deben **entender** la solución (teoría + implementación) y ser capaces de programar dicha solución por ustedes mismos después (la idea es que aprendan, si hacen copy-paste no van a estar aprendiendo nada)
- 
 _________________________________
 
 # Material de Apoyo
