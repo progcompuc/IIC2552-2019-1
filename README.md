@@ -63,6 +63,7 @@ Ademas de las competencias semanales, existen varias formas de obtener décimas 
   * La cantidad de décimas que recibas dependerá de varios factores, a saber:
     * La dificultad del problema resuelto
     * La calidad de la explicación (lo ideal: una explicación muy clara pero concisa)
+    * Si tu explicación es realmente un aporte (en caso de que alguien más ya haya escrito una explicación para el mismo problema)
     * Si es que agregaste un link a tu solución en código
       * la calidad de este código (si está ordenado, si está razonablemente comentado)
   
