@@ -88,7 +88,7 @@ La nota final del curso se calculará de la siguiente manera:
 * Luego, se obtiene X_final = X_temprano + 0.8 * X_tarde + 0.5 * X_repechaje
 * Sea E = cantidad mínima de puntos esperados al final del semestre
 * Así, se obtiene una nota preliminar
-   * Nota_v1 = 1 + 6 * min(X_total/E, 1)
+   * Nota_v1 = 1 + 6 * min(X_final/E, 1)
 * Sin embargo, luego se bajará la escala del curso, es decir, si ningún alumno alcanzó el 7, el alumno con mayor nota quedará con 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajar la escala con el fin de desincentivar posibles conspiraciones).
    * Nota_v2 = aplicar_escala_reducida(Nota_v1)
 * Finalmente, se aplicarán las décimas de bonus:
