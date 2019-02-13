@@ -96,7 +96,7 @@ La nota final del curso se calculará de la siguiente manera:
 * Todo lo anterior se encuentra formalizado en el [spreadsheet de asistencia y notas](TODO AGREGAR)
 
 # Reglas (Ética)
-Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye documentación de tu lenguaje de programación, descripciones de algoritmos, implementaciones estándar de ciertos algoritmos como referencia, wikipedia, youtube, libros, tutoriales, etc. En caso de **desesperación**, está incluso permitido consultar soluciones de ejemplo. Sin embargo, **LA COPIA DESCARADA DE SOLUCIONES AJENAS** está terminantemente **PROHIBIDA**. Para evitar esto, nuestra recomendación al enfrentar problemas es la siguiente:
+Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye documentación de tu lenguaje de programación, descripciones de algoritmos, implementaciones estándar de ciertos algoritmos y estructuras de datos como referencia, wikipedia, youtube, libros, tutoriales, etc. En caso de **desesperación**, está incluso permitido consultar soluciones de ejemplo. Sin embargo, **LA COPIA DESCARADA DE SOLUCIONES AJENAS** está terminantemente **PROHIBIDA**. Para evitar esto, nuestra recomendación al enfrentar problemas es la siguiente:
 
 1) Primero intenta resolver los problemas por ti mism@, trata de no usar ningún recurso externo excepto por quizá documentación del lenguaje de programación que estás usando (por ej. si es que se te olvidó cómo se usaba cierta cosa de la librería estándar)
 2) Si un problema está muy difícil, intenta cambiarte a otro problema más fácil (puedes ver los problemas más resueltos en el scoreboard, probablemente son los más fáciles).
