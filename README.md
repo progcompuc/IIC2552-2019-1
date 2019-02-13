@@ -54,7 +54,7 @@ El curso es con **asistencia reprobatoria**. Los alumnos que registren una asist
 
 Ademas de las competencias semanales, existen varias formas de obtener décimas de bonus que se sumarán directamene a tu nota final:
 
-* __BONUS EXPLICACIÓN DE PROBLEMA__ (individual): Este bonus permite obtener hasta un máximo de 2 décimas por explicación. ¿En qué consiste? Cada semana, junto a cada contest se publicará un google doc que será compartido con todos (todos podrán editarlo). La idea de estos google docs es que todos (alumnos y staff) colaboremos en la redacción de explicaciones de las soluciones de los problemas, armando una suerte de "wikipedia" de soluciones. ¿Cómo obtener este bonus?:  
+* __BONUS EXPLICACIÓN PROBLEMA__ (individual): Este bonus permite obtener hasta un máximo de 2 décimas por explicación. ¿En qué consiste? Cada semana, junto a cada contest se publicará un google doc que será compartido con todos (todos podrán editarlo). La idea de estos google docs es que todos (alumnos y staff) colaboremos en la redacción de explicaciones de las soluciones de los problemas, armando una suerte de "wikipedia" de soluciones. ¿Cómo obtener este bonus?:  
   * Para obtener este bonus el primer requisito es haber resuelto el problema que quieres explicar (no puedes explicar un problema que no has resuelto todavía).
   * Debes redactar una explicación entendible de la estrategia con la cual resolviste el problema. Puedes agregar dibujos, imágenes, fórmulas, ecuaciones, etc. si crees que hará tu explicación más fácil de entender.
   * Opcionalmente, puedes incluir un link al código de tu solución (por ej. hosteado en un repositorio público en GitHub) al final de tu explicación.
@@ -71,7 +71,7 @@ Ademas de las competencias semanales, existen varias formas de obtener décimas 
   * Registrarse en una competencia en grupos de 2 o 3 alumn@s.
   * Participar en la competencia
   * Mandar una foto del grupo con todos sus integrantes juntos frente a un mismo computador (sí, la idea es que se junten físicamente usando un solo computador, [como en este ejemplo](https://youtu.be/BZo23gj9ksk?t=4237)).
-  * Al terminar la competencia, deben mandar el link al scoreboard final de la competencia RPC en que la que participaron.
+  * Al terminar la competencia, deben mandar el link al scoreboard final de la competencia RPC en que participaron.
   * El bonus se calculará como 6 * (X/N) décimas, donde X = problemas resueltos por el grupo, N = problemas resueltos por el equipo que quedó en primer lugar. Las 6 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
 
 * __BONUS Codeforces__ (individual): Cada cierto tiempo [Codeforces](http://codeforces.com/) organiza competencias individuales, que generalmente duran alrededor de 2 horas, con problemas de diferentes niveles de dificultad. Si se registran en Codeforces, el sitio les debería ir avisando por email sobre las próximas competencias. O bien, pueden revisar el [siguiente calendario](http://codeforces.com/calendar). Para obtener este bonus deben:
@@ -81,26 +81,30 @@ Ademas de las competencias semanales, existen varias formas de obtener décimas 
   * El bonus se calculará como 4 * (X/N) décimas, donde X = problemas resueltos por el alumno, N = problemas resueltos por la persona que quedó en primer lugar. Las 4 * (X/N) décimas obtenidas se sumarán directamente a su nota final.
 
 # Cálculo de la Nota Final
-La nota final se calcula calculando muchas cosas:
-* El promedio de la asistencia de todos los contests (llamémoslo X).
-* En caso de que X < 100%, el porcentaje que les falte (100% - X) lo pueden recuperar "reduciendo" su *deuda total* de problemas (llamémosla D). Para esto se hará el siguiente update:
-   * D := deuda total de problemas
-   * K := X * (excedente total + total upsolving Codepit + total upsolving RPC + total upsolving Codeforces)
-      * nótese que la sumatoria anterior es "penalizada" por la asistencia promedio (i.e. vale más resolver problemas dentro de plazo que fuera de plazo).
-   * D_reducido = max {D - K, 0}
-   * X_aumentado = X + (1 - X) * ((D - D_reducido) / D)
-* Así se puede calcular su nota:
-   * Nota = 1 + 6 * X_aumentado
-* Sin embargo, luego se bajará la escala del curso, donde el alumno con mayor asistencia quedará con nota 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajar la escala).
-   * Nota_v2 = aplicar_escala_reducida(Nota)
+La nota final del curso se calculará de la siguiente manera:
+* Sea X_temprano = cantidad total de puntos por problemas resueltos entre las 15:30 y las 23:59
+* Sea X_tarde = cantidad total de puntos por problemas resueltos pasadas las 23:59
+* Sea X_repechaje = cantidad total de puntos por problemas en el contest de repechaje
+* Luego, se obtiene X_final = X_temprano + 0.8 * X_tarde + 0.5 * X_repechaje
+* Sea E = cantidad mínima de puntos esperados al final del semestre
+* Así, se obtiene una nota preliminar
+   * Nota_v1 = 1 + 6 * min(X_total/E, 1)
+* Sin embargo, luego se bajará la escala del curso, es decir, si ningún alumno alcanzó el 7, el alumno con mayor nota quedará con 7 (siempre y cuando la escala baje "poco" - i.e. habrá un límite para bajar la escala con el fin de desincentivar posibles conspiraciones).
+   * Nota_v2 = aplicar_escala_reducida(Nota_v1)
 * Finalmente, se aplicarán las décimas de bonus:
-   * Nota_v3 = Nota_v2 + BONUS EXPL. PROB. DIFÍCILES + BONUS RPC + BONUS Codeforces + BONUS Regional
+   * Nota_v3 = Nota_v2 + BONUS EXPLICACIÓN PROBLEMA + BONUS RPC + BONUS Codeforces
+* Todo lo anterior se encuentra formalizado en el [spreadsheet de asistencia y notas](TODO AGREGAR)
 
-### Seguimiento de Asistencia y Problemas Resueltos:
-Todo lo anterior se encuentra formalizado en el siguiente google spreadsheet:
-https://docs.google.com/spreadsheets/d/1wm2jleZBV_M8V6FbTBpKfcI4uzNTg9ReMvnjq21LBXY/edit?usp=sharing
+### Reglas (Ética)
+Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye como documentación de tu lenguaje, descripciones de algoritmos, implementaciones estándar de cierto algoritmos como referencia, wikipedia, youtube, libros, tutoriales, etc. En caso de **desesperación**, está permitido incluso mirar soluciones de ejemplo. Sin embargo, **la copia descarada de soluciones ajenas** está terminantemente **prohibida**. Nuestra recomendación al enfrentar problemas es la siguiente:
+1) Primero intenta resolver el problemo por ti mism@, trata de no usar ningún recurso externo excepto por quizá documentación del lenguaje de programación que estás usando (por ej. si es que se te olvidó cómo se usaba cierta cosa de la librería estándar)
+2) Si el problema está muy difícil, intenta resolver otro problema más fácil del contest
+3) Eventualmente si llegas a punto en que te sientes pegad@ con todos los problemas que quedan, entonce parte por pedir ayuda. Puedes
+1) no buscar explicaciones / soluciones de problemas **a menos que ya estén rendidos intelectualmente**
+2) **nunca hacer copy-paste de soluciones ajenas**, sino que deben **entender** la solución (teoría + implementación) y ser capaces de programar dicha solución por ustedes mismos después (la idea es que aprendan, si hacen copy-paste no van a estar aprendiendo nada)
 
-### IMPORTANTE: mensaje para los alumnos nuevos
+
+# IMPORTANTE: mensaje para los alumnos nuevos
 El nivel de dificultad de los problemas en las regionales ICPC es bien alto, y por lo tanto un buen entrenamiento requiere que los alumnos sean expuestos a problemas de ese nivel. Sin embargo, entendemos que tirar a los alumnos nuevos "a los leones" de golpe puede ser un poco traumático. Por lo tanto, para los primeros 3 contests tendremos dos divisiones: división 1 (más difícil) y división 2 (más fácil). Los alumnos nuevos pueden optar por participar en la división 2 si así lo desean.
 
 ### IMPORTANTE: sobre lenguajes de programación
