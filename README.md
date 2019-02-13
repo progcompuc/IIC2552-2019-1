@@ -52,11 +52,19 @@ El curso es con **asistencia reprobatoria**. Los alumnos que registren una asist
 
 ## 3) Bonuses
 
-* __BONUS EXPLICACIÓN PROBLEMA DIFÍCIL__ (individual): Este bonus permite obtener hasta un máximo de 3 décimas cada vez, las que se sumarán directamente a su nota final. ¿Cómo obtener este bonus?:
-  * El alumno debe sacar _accepted_ en un problema difícil que casi nadie más haya podido resolver. El problema debe pertenecer a alguno de los contests del semestre y puede ser resuelto en modo _upsolving_ también (no es obligatorio alcanzar a resolverlo dentro de plazo).
-  * El alumno debe publicar su solución para que todos los demás la puedan ver (por ej. pueden subirla a un repositorio público en github).
-  * El alumno debe preparar y dar una explicación de la solución adelante durante la clase y debe asegurarse de que los demás compañeros le entiendan.
-  * __\*\*EXTRA__: si están motivados con un problema difícil pero no saben por dónde empezar, pueden consultar con el staff del curso y nosotros trataremos de ayudarles/orientarles con material de estudio y consejos para resolver el problema.
+Ademas de las competencias semanales, existen varias formas de obtener décimas de bonus que se sumarán directamene a tu nota final:
+
+* __BONUS EXPLICACIÓN DE PROBLEMA__ (individual): Este bonus permite obtener hasta un máximo de 2 décimas por explicación. ¿En qué consiste? Cada semana, junto a cada contest se publicará un google doc que será compartido con todos (todos podrán editarlo). La idea de estos google docs es que todos (alumnos y staff) colaboremos en la redacción de explicaciones de las soluciones de los problemas, armando una suerte de "wikipedia" de soluciones. ¿Cómo obtener este bonus?:  
+  * Para obtener este bonus el primer requisito es haber resuelto el problema que quieres explicar (no puedes explicar un problema que no has resuelto todavía).
+  * Debes redactar una explicación entendible de la estrategia con la cual resolviste el problema. Puedes agregar dibujos, imágenes, fórmulas, ecuaciones, etc. si crees que hará tu explicación más fácil de entender.
+  * Opcionalmente, puedes incluir un link al código de tu solución (por ej. hosteado en un repositorio público en GitHub) al final de tu explicación.
+  * Por supueto, no olvides incluir tu nombre y apellido al final de tu explicación para que todos sepan quién lo escribió.
+  * Cuando tengas tu explicación lista, debes avisar por medio del Telegram del curso que has agregado una explicación.
+  * La cantidad de décimas que recibas dependerá de varios factores, a saber:
+    * La dificultad del problema resuelto
+    * La calidad de la explicación (lo ideal: una explicación muy clara pero concisa)
+    * Si es que agregaste un link a tu solución en código
+      * la calidad de este código (si está ordenado, si está razonablemente comentado)
   
 * __BONUS RPC__ (grupal): Cada cierto tiempo la [Red de Programación Competitiva (RPC)](http://redprogramacioncompetitiva.com/) organiza competencias de entrenamiento. El calendario y registro para estas competencias se encuentran acá: http://registro.redprogramacioncompetitiva.com/contests, y los scoreboards de las competencias pasadas se pueden encontrar acá: http://redprogramacioncompetitiva.com/Contest. Nótese que se trata de un **bonus grupal**, por ende para obtener este bonus deben:
   * Registrarse en grupos de 2 o 3 alumnos.
