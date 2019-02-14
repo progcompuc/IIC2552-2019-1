@@ -18,7 +18,7 @@ Ayudante: Ignacio Hermosilla (ithermosilla@uc.cl)
 
 Telegram del curso: https://t.me/joinchat/BnXT1xQcSRlCklPnArpHyw (medio oficial de comunicación)
 
-Spreadsheet de notas y asistencia: (TODO: AGREGAR)
+Spreadsheet de notas y asistencia: [link](https://docs.google.com/spreadsheets/d/13NJgv8usjIq8LeWcR_ctjFQHK_Wm9TejJNGIuKvI0Gc/edit?usp=sharing)
 
 # Cómo funciona el curso
 
@@ -93,7 +93,7 @@ La nota final del curso se calculará de la siguiente manera:
    * Nota_v2 = aplicar_escala_reducida(Nota_v1)
 * Finalmente, se aplicarán las décimas de bonus:
    * Nota_v3 = Nota_v2 + BONUS EXPLICACIÓN PROBLEMA + BONUS RPC + BONUS Codeforces
-* Todo lo anterior se encuentra formalizado en el [spreadsheet de asistencia y notas](TODO AGREGAR)
+* Todo lo anterior se encuentra formalizado en el [spreadsheet de notas y asistencia](https://docs.google.com/spreadsheets/d/13NJgv8usjIq8LeWcR_ctjFQHK_Wm9TejJNGIuKvI0Gc/edit?usp=sharing)
 
 # Reglas (Ética)
 Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye documentación de tu lenguaje de programación, descripciones de algoritmos, implementaciones estándar de ciertos algoritmos y estructuras de datos como referencia, wikipedia, youtube, libros, tutoriales, etc. En caso de **desesperación**, está incluso permitido consultar soluciones de ejemplo. Sin embargo, **LA COPIA DESCARADA DE SOLUCIONES AJENAS** está terminantemente **PROHIBIDA**. Para evitar esto, nuestra recomendación al enfrentar problemas es la siguiente:
