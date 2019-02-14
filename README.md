@@ -105,9 +105,9 @@ Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye docum
 3) Eventualmente si llegas a un punto en que te sientes pegad@ con todos los problemas que quedan, entonces es tiempo de pedir ayuda. Durante la clase te invitamos a discutir los problemas con otros compañer@s o con el staff. Fuera de la clase, puedes leer las explicaciones que vayamos subiendo a los google docs o bien puedes hacer preguntas en el Telegram del curso.
 4) Si lo anterior no es suficiente, puedes googlear explicaciones teóricas (palabras) en internet. También puedes consultar material de estudio, códigos de estructuras de datos y algoritmos estándar, etc. Si haces esto, por favor **incluye las referencias (links) en tu código**, explicando qué fuentes consultaste y en qué te ayudaron.
 5) Si las explicaciones teóricas y recursos estándar de referencia no son suficientes, como medida de **desesperación** y **último recurso** te está éticamente permitido mirar soluciones ajenas de ejemplo. Sin embargo, **por ningún motivo hagas copy-paste**. Lo que debes hacer es tratar de entender el código y sacar ideas a partir de él que te permitan programar tu propia solución. El objetivo es que aprendas. Si haces copy-paste, ¿estarás aprendiendo algo?
-6) Finalmente, ten presente que vjudge.net le otorga al autor de un contest acceso a las soluciones de los participantes. Sí. Podemos ver sus códigos. Si alguien [misteriosamente](https://youtu.be/HQoRXhS7vlU) resuelve un problema difícil, tenga la seguridad de que con probabilidad muy alta su código será examinado.
+6) Finalmente, ten presente que vjudge.net le otorga al autor de un contest acceso a las soluciones de los participantes ... Sí, podemos ver tu código :). Si alguien [misteriosamente](https://youtu.be/HQoRXhS7vlU) resuelve un problema difícil, tenga la seguridad de que con probabilidad muy alta su código será examinado.
 
-El **castigo por copia** consistirá en lo siguiente:
+Si llegamos a descubrir una copia, el  **castigo consistirá en lo siguiente**:
 1) Primera copia: nota_final = max(min(nota_v3, 7) - 3, 1)
 2) Segunda copia: nota_final = 1 + causal de eliminación
 
