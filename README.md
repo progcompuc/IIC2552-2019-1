@@ -20,13 +20,15 @@ Telegram del curso: https://t.me/joinchat/BnXT1xQcSRlCklPnArpHyw (medio oficial 
 
 Spreadsheet de notas y asistencia: [link](https://docs.google.com/spreadsheets/d/13NJgv8usjIq8LeWcR_ctjFQHK_Wm9TejJNGIuKvI0Gc/edit?usp=sharing)
 
+Spreadsheet de datos personales: [link](https://docs.google.com/spreadsheets/d/1FSRolgJukhPfEhVgEwG7SFk91D1FUwVQje0mkaNIGIQ/edit?usp=sharing) (acceso permitido sólo a miembros del curso, por favor llenar datos)
+
 # Cómo funciona el curso
 
 ## 1) Competencias Semanales
 
 Este curso es 100% práctico. La nota final dependerá de la resolución por parte del alumno de problemas de programación competitiva. Cada semana se publicará un *contest* (o competencia, en español). Los contests se caracterizan por lo siguiente:
 
-* Se publicarán en [vjudge.net](https://vjudge.net), un sitio web que permite crear competencias utilizando problemas obtenidos de múltiples jueces online, con un scoreboard que se actualiza en tiempo real a medida que los participantes resuelven problemas. Para competir es necesario que te crees una cuenta en [vjudge.net](https://vjudge.net) y posteriormente que te unas con dicha cuenta a los contests a medida que estos vayan siendo publicados. Para facilitarnos el registro de problemas resueltos, te pedimos por favor que registres el **nickname** de tu cuenta en el siguiente spreadsheet: (TODO: AGREGAR)
+* Se publicarán en [vjudge.net](https://vjudge.net), un sitio web que permite crear competencias utilizando problemas obtenidos de múltiples jueces online, con un scoreboard que se actualiza en tiempo real a medida que los participantes resuelven problemas. Para competir es necesario que te crees una cuenta en [vjudge.net](https://vjudge.net) y posteriormente que te unas con dicha cuenta a los contests a medida que estos vayan siendo publicados. Para facilitarnos el registro de problemas resueltos, te pedimos por favor que registres el **nickname** de tu cuenta en el siguiente spreadsheet: [link](https://docs.google.com/spreadsheets/d/1FSRolgJukhPfEhVgEwG7SFk91D1FUwVQje0mkaNIGIQ/edit?usp=sharing).
 
 * Casi todas las competencias serán **individuales**, pero hacia el final del semestre habrán 1 o 2 competencias **grupales**. 
 
