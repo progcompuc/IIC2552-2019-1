@@ -54,7 +54,7 @@ El curso es con **asistencia reprobatoria**. Los alumnos que registren una asist
 
 ## 3) Bonuses
 
-Ademas de las competencias semanales, existen varias formas de obtener décimas de bonus que se sumarán directamene a tu nota final:
+Además de las competencias semanales, existen varias formas de obtener décimas de bonus que se sumarán directamene a tu nota final:
 
 * __BONUS EXPLICACIÓN PROBLEMA__ (individual): Este bonus permite obtener hasta un máximo de 2 décimas por explicación. ¿En qué consiste? Cada semana, junto a cada contest se publicará un google doc que será compartido con todos (todos podrán editarlo). La idea de estos google docs es que todos (alumnos y staff) colaboremos en la redacción de explicaciones de las soluciones de los problemas, armando una suerte de "wikipedia" de soluciones. ¿Cómo obtener este bonus?:  
   * Para obtener este bonus el primer requisito es haber resuelto el problema que quieres explicar (no puedes explicar un problema que no has resuelto todavía).
