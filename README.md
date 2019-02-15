@@ -377,6 +377,7 @@ ___________________________________________
      * https://www.youtube.com/watch?v=XPpmzulEmjA
      * https://www.youtube.com/watch?v=MczX0SM3I84
      * https://www.youtube.com/watch?v=GiN3jRdgxU4
+     * Intuición detrás del grafo residual: https://cs.stackexchange.com/questions/55041/residual-graph-in-maximum-flow
   * Dinic Algorithm (RECOMENDADO):
      * https://www.youtube.com/watch?v=uM06jHdIC70
      * http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15451-f14/www/lectures/lec11/dinic.pdf
