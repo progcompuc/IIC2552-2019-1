@@ -368,6 +368,10 @@ ___________________________________________
   * https://www.geeksforgeeks.org/heavy-light-decomposition-set-1-introduction/
   * http://codeforces.com/blog/entry/22072
 * Max Flow:
+  * Episode 33 - Maximum Flow Intuition: https://www.youtube.com/watch?v=K1i-wP82Zdo
+  * Cuándo se usa:
+     * (MUY RECOMENDADO) Ejemplos de problemas usando flujo: https://www.youtube.com/watch?v=nKcVc8XkFSA
+     * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/  
   * Ford-Fulkerson Algorithm:
      * https://www.youtube.com/watch?v=Tl90tNtKvxs
      * https://www.youtube.com/watch?v=XPpmzulEmjA
@@ -378,9 +382,6 @@ ___________________________________________
      * http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15451-f14/www/lectures/lec11/dinic.pdf
      * http://theory.stanford.edu/~tim/w16/l/l2.pdf
      * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dinic.cpp
-  * Casos de uso:
-     * (MUY RECOMENDADO) Ejemplos de problemas usando flujo: https://www.youtube.com/watch?v=nKcVc8XkFSA
-     * Maximum Bipartite Matching: http://www.geeksforgeeks.org/maximum-bipartite-matching/
 
 ### Strings:
 * Rolling Hashing:
