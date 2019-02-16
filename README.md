@@ -140,6 +140,7 @@ _________________________________
 
 ### General
 * Canales de Youtube con muchas explicaciones:
+  * Gaurav Sen: https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
   * Abdul Bari: https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
   * Algorithms Live!: https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w/
   * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
