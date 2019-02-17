@@ -48,11 +48,15 @@ Este curso es 100% práctico. La nota final dependerá de la resolución por par
 
 * Al final del semestre habrá un contest de repechaje. Este contest tendrá muchos problemas y durará hasta la fecha del cierre de notas. Sin embargo, el puntaje de estos problemas será penalizado con un factor de 0.5. Es decir, _puntaje_repechaje_ = _puntaje_original_ * 0.5. Por lo tanto, el consejo obvio es resolver problemas periódicamente de forma responsable, para no tener que trabajar el doble en el contest de repechaje :)
 
-## 2) Asistencia
+## 2) Alumnos Nuevos
+
+* Los alumnos nuevos trabajaran separado de los alumnos más experimentados las primeras semanas, viendo cosas más básicas como los principios de C++, instalar y utilizar un compilador y a realizar operaciones básicas de programación competitiva. A medida que progresen, se podrán ir uniendo al resto del curso.
+
+## 3) Asistencia
 
 El curso es con **asistencia reprobatoria**. Los alumnos que registren una asistencia al final del semestre inferior a 65% **reprobarán el curso**. Cada clase se pasará lista. Aunque no es necesario que te quedes los 3 módulos, con que vengas al menos a 1 módulo es suficiente para quedar presente.
 
-## 3) Bonuses
+## 4) Bonuses
 
 Además de las competencias semanales, existen varias formas de obtener décimas de bonus que se sumarán directamene a tu nota final:
 
