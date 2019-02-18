@@ -3,6 +3,9 @@
 ## 2019-1
 
 # Introducción
+
+Nota, alumnos nuevos leer la sección "alumnos nuevos" en comentarios adicionales
+
 En este curso aprenderás las técnicas y habilidades necesarias para resolver problemas algorítmicos de [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) tales como los que aparecen en la [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), [Codeforces](http://www.codeforces.com/), [Codechef](https://www.codechef.com/), [Topcoder](https://www.topcoder.com/) y [HackerRank](https://www.hackerrank.com/). La mayor parte de tu tiempo te la pasarás escribiendo programas para resolver problemas.
 
 L@s mejores estudiantes podrán ser seleccionad@s para representar a la universidad en la [ICPC South America/South Finals](https://icpc.baylor.edu/regionals/finder/southamerica-south-2018), la competencia regional en la que Chile participa durante noviembre cada año, e inclusive posiblemente clasificar a las [World Finals](https://icpc.baylor.edu/).
@@ -126,6 +129,11 @@ Grupal
 * Tutifruti (de todo, resto del semestre)
 
 # Comentarios Adicionales
+
+### Alumnos nuevos
+
+Durante las primeras semanas del curso les enseñaremos las cosas básicas del curso, como instalar C++, compilar y ejecutar un programa, leer y escribir input & output y algunos ejemplos básicos. Las primeras semanas se veran problemas no complejos de implementación (rotar una matriz por ejemplo) cosa de que empiezen a soltar la mano y se encuentren familiarizados con C++ antes de enseñarles cosas nuevas. 
+
 ### Sobre lenguajes de programación
 En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso Time Limit Exceeded (TLE), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, los aninamos a revisar los recursos para aprender C++ que están listados más abajo.
 
