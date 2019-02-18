@@ -119,7 +119,7 @@ Si llegamos a descubrir una copia, el  **castigo consistirá en lo siguiente**:
 
 Individual
 * Implementación, Fuerza Bruta, Backtracking (3 semanas)
-* Binary Search (1 semana)
+* Binary Search (2 semanas)
 * DP básico (2 semanas)
 * Grafos básico (2 semanas)
 * Matemática (2 semanas)
