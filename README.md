@@ -3,11 +3,14 @@
 ## 2019-1
 
 # Introducción
+
 En este curso aprenderás las técnicas y habilidades necesarias para resolver problemas algorítmicos de [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) tales como los que aparecen en la [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), [Codeforces](http://www.codeforces.com/), [Codechef](https://www.codechef.com/), [Topcoder](https://www.topcoder.com/) y [HackerRank](https://www.hackerrank.com/). La mayor parte de tu tiempo te la pasarás escribiendo programas para resolver problemas.
 
 L@s mejores estudiantes podrán ser seleccionad@s para representar a la universidad en la [ICPC South America/South Finals](https://icpc.baylor.edu/regionals/finder/southamerica-south-2018), la competencia regional en la que Chile participa durante noviembre cada año, e inclusive posiblemente clasificar a las [World Finals](https://icpc.baylor.edu/).
 
 Sin embargo, las habilidades que adquirirás en este curso van mucho más allá que simplemente ganar competencias. Muchos de los algoritmos y técnicas que verás son clásicos y como tales forman parte de la "cultura general algorítmica" a la que como estudiante de Ciencia de la Computación se espera que seas expuest@ durante tu formación. Pero además también aprenderás a pensar algorítmicamente de un modo más profundo, ya que la gran mayoría de los problemas te exigirán idear un nuevo algoritmo de forma creativa e ingeniosa, en lugar de aplicar un algoritmo clásico de forma directa. Ejercitarás habilidades como descomponer problemas complejos en subproblemas más simples, considerar diferentes estrategias frente a un mismo problema, planificar soluciones paso por paso considerando aspectos como memoria disponible, tiempo de ejecución y casos bordes. En definitiva, aprenderás a **pensar cuidadosamente antes de programar**. Estas habilidades serán de gran valor en tus otros cursos, en entrevistas de trabajo (Google, Microsoft, Facebook, etc.), y a la larga en tu carrera profesional.
+
+**Nota:** alumnos nuevos no olviden leer la sección "alumnos nuevos" en comentarios adicionales.
 
 # Información Básica
 Clases: 14:00-18:30, sala Javier Pinto, DCC
@@ -126,6 +129,7 @@ Grupal
 * Tutifruti (de todo, resto del semestre)
 
 # Comentarios Adicionales
+
 ### Sobre lenguajes de programación
 En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso Time Limit Exceeded (TLE), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, los aninamos a revisar los recursos para aprender C++ que están listados más abajo.
 
@@ -134,6 +138,11 @@ En programación competitiva el lenguaje más utilizado por lejos es C++ (y dent
  - En C++, pueden hacerse un poco más de **10^8 operaciones baratas por segundo** (una estimación bien al ojo por experiencia con diferentes jueces online). Por lo tanto, si les dan K segundos de tiempo límite, a lo más podrán hacer un poco más de K * 10^8 operaciones baratas. Tengan esto muy presente.
  - Siempre estimen la [**complejidad computacional**](https://en.wikipedia.org/wiki/Time_complexity) de su algoritmo y **evalúenla con el caso de prueba más grande** (peor caso). Por ejemplo, si un problema depende de N donde 1 <= N <= 10^5 y mi algoritmo es cuadrático (complejidad = O(N^2)), entonces en el peor caso haré (10^5)^2 = 10^10 operaciones, y por ende según el punto anterior necesitaría **100 segundos** para correrlo. En cambio, si mi algoritmo tiene complejidad O(N\*log(N)) entonces en el peor caso sólo haré 10^5 * log(10^5) = 1.7 * 10^6 operaciones (aprox.), y por ende sólo necesitaría **0.017 segundos** (la nada misma) para correrlo. Entonces, si mi problema tiene un tiempo máximo de ejecución de 2 segundos, ¿qué algoritmo va a funcionar? Claramente el segundo.
  - Si van a usar mucha memoria, preocúpense de **no pasarse del límite de memoria permitido**. Por ejemplo si les dan 256MB de memoria, en bytes eso es 256 * 1024 * 1024 = 268435456 bytes, un int32 ocupa 4 bytes, así que como máximo podrían crear un arreglo de int32 de largo 67108864 = 6.7 * 10^7 aprox (o la mitad si usan un int64, un double, etc.). También podría acabárseles la memoria si hacen demasiadas llamadas recursivas [[1](https://codeforces.com/blog/entry/47003), [2](https://stackoverflow.com/a/11777585/2801404)].
+ 
+### Alumnos nuevos
+
+No se sientan intimidados. Durante las primeras semanas del curso les enseñaremos las cosas básicas, desde cómo instalar C++ hasta demostraciones en vivo de cómo programar, compilar y ejecutar la solución de un problema en C++. Las primeras semanas los temas que se verán son sencillos (Backtracking y Binary Search, temas que se ven en Introducción a la Programación), donde la teoría es relativamente fácil y la mayor dificultad reside en la implementación (escribir código). Estas primeras semanas serán ideales para ejercitar sus habilidades de programación, para que aprovechen de soltar la mano y estar en buenas condiciones para enfrentar temas más complejos.
+
 
 _________________________________
 
