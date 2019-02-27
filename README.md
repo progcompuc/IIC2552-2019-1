@@ -70,7 +70,7 @@ Además de las competencias semanales, existen varias formas de obtener décimas
     * La dificultad del problema resuelto
     * La calidad de la explicación (lo ideal: una explicación muy clara pero concisa)
     * Si tu explicación es realmente un aporte (en caso de que alguien más ya haya escrito una explicación para el mismo problema)
-    * Si tu explicación incluye un análisis / estimación de la complejidad computacional del algoritmo (por qué no da TLE?)
+    * Si tu explicación incluye un análisis / estimación de la complejidad computacional del algoritmo (por qué no da [TLE](https://www.geeksforgeeks.org/overcome-time-limit-exceedtle/)?)
     * Si es que agregaste un link a tu solución en código
       * la calidad de este código (si está ordenado, si está razonablemente comentado)
   
@@ -132,7 +132,7 @@ Grupal
 # Comentarios Adicionales
 
 ### Sobre lenguajes de programación
-En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso Time Limit Exceeded (TLE), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, los aninamos a revisar los recursos para aprender C++ que están listados más abajo.
+En programación competitiva el lenguaje más utilizado por lejos es C++ (y dentro de C++ generalmente se usa de C++11 para arriba). En segundo lugar se encuentra Java. [Y hace muy poco se comenzó a utilizar también Python](https://www.quora.com/Can-Python-be-used-in-ACM-ICPC). Sin embargo, lamentablemente la mayoría de los jueces online (los servidores que tienen los enunciados de los problemas y ejecutan los códigos enviados por la gente) generalmente están calibrados para aceptar soluciones en C++ y a veces Java, y pasa mucho que las soluciones en Python fallan con el famoso [Time Limit Exceeded (TLE)](https://www.geeksforgeeks.org/overcome-time-limit-exceedtle/), ya que Python de por sí es un lenguaje interpretado que se demora mucho más en ejecutar que lenguajes compilados a código de máquina como C++. Además, la mayoría de los códigos de ejemplo disponibles en internet para progcomp están en C++ o quizá Java. Dado lo anterior, el consejo típico es aprender C++. A los alumnos nuevos que quieran seguir este consejo, los aninamos a revisar los recursos para aprender C++ que están listados más abajo.
 
 ### Sobre restricciones de tiempo y memoria en programación competitiva
  - En la ICPC y en la mayoría de los jueces online de entrenamiento los problemas tienen límites de tiempo (ej. 3 segundos) y memoria (ej. 256 MB). Esto significa que soluciones muy lentas o soluciones que requieren anotar demasiadas cosas **no funcionarán**.
