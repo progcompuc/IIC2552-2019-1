@@ -123,8 +123,8 @@ Individual
 * Binary Search (2 semanas)
 * DP básico (2 semanas)
 * Grafos básico (2 semanas)
-* Matemática (2 semanas)
 * Geometría básica (1 semana)
+* Matemática (3 semanas)
 
 Grupal
 * Tutifruti (de todo, resto del semestre)
