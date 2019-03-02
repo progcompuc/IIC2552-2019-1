@@ -254,6 +254,18 @@ ___________________________________________
 
 ### Tricks para problemas Ad-Hoc:
  * General Ideas: https://codeforces.com/blog/entry/48417
+ 
+### Tips para implementación con C++
+* [Topcoder: power up c++ with the standard template library part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
+* [Topcoder: power up c++ with the standard template library part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
+* [Youtube List: algoritmos de la librería estándar para llegar y usar](https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5)
+
+### Backtracking
+* 6 Introduction to Backtracking - Brute Force Approach: https://www.youtube.com/watch?v=DKCbsiDBN6c
+* 6.1 N Queens Problem using Backtracking: https://www.youtube.com/watch?v=xFv_Hl4B83A
+* 6.2 Sum Of Subsets Problem - Backtracking: https://www.youtube.com/watch?v=kyLxTdsT8ws
+* 6.3 Graph Coloring Problem - Backtracking: https://www.youtube.com/watch?v=052VkKhIaQ4
+* Algorítmia - Tema 5. Backtracking. N-Reinas - Andrés Muñoz Ortega: https://www.youtube.com/watch?v=XQYGwKiqV3Y
 
 ### Search:
 * Binary Search:
