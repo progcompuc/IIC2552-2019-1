@@ -257,7 +257,7 @@ ___________________________________________
  
 ### Tips para implementación con C++
 * [Topcoder: power up c++ with the standard template library part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
-* [Topcoder: power up c++ with the standard template library part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
+* [Topcoder: power up c++ with the standard template library part 2](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
 * [Youtube List: algoritmos de la librería estándar para llegar y usar](https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5)
 
 ### Backtracking
