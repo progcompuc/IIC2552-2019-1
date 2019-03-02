@@ -261,6 +261,7 @@ ___________________________________________
 * [Youtube List: algoritmos de la librería estándar para llegar y usar](https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5)
 
 ### Backtracking
+* https://progcomp.cl/backtracking
 * 6 Introduction to Backtracking - Brute Force Approach: https://www.youtube.com/watch?v=DKCbsiDBN6c
 * 6.1 N Queens Problem using Backtracking: https://www.youtube.com/watch?v=xFv_Hl4B83A
 * 6.2 Sum Of Subsets Problem - Backtracking: https://www.youtube.com/watch?v=kyLxTdsT8ws
