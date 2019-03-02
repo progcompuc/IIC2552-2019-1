@@ -546,8 +546,8 @@ ___________________________________________
 
 _______________________________________________
 
-## Contests
-# Contest 1:
-  * puntos por problema: _pendiente_, [contest link](https://vjudge.net/contest/285945) [explicaciones]
+# Contests
+## Contest 1:
+  * Puntos: _pendiente_, [Contest Link](https://vjudge.net/contest/285945) [explicaciones]
   * temas: implementación, backtracking
-  * soluciones de ejemplo: _pendiente_
+  * códigos de ejemplo: _pendiente_
