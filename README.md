@@ -547,7 +547,7 @@ ___________________________________________
 _______________________________________________
 
 # Contests
-## Contest 1:
+* Contest 1, Marzo 08, 10 días
   * Puntos: _pendiente_, [Contest Link](https://vjudge.net/contest/285945)
   * temas: implementación, backtracking
   * códigos de ejemplo: _pendiente_
