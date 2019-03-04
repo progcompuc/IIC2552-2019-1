@@ -122,7 +122,7 @@ Individual
 * Implementación, Fuerza Bruta, Backtracking (3 semanas)
 * Binary Search (2 semanas)
 * DP básico (2 semanas)
-* Grafos básico (2 semanas)
+* Grafos básico (3 semanas)
 * Geometría básica (1 semana)
 * Matemática (3 semanas)
 
