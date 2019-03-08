@@ -62,6 +62,7 @@ Además de las competencias semanales, existen varias formas de obtener décimas
 
 * __BONUS EXPLICACIÓN PROBLEMA__ (individual): Este bonus permite obtener hasta un máximo de 2 décimas por explicación. ¿En qué consiste? Cada semana, junto a cada contest se publicará un google doc que será compartido con todos (todos podrán editarlo). La idea de estos google docs es que todos (alumnos y staff) colaboremos en la redacción de explicaciones de las soluciones de los problemas, armando una suerte de "wikipedia" de soluciones. ¿Cómo obtener este bonus?:  
   * Para obtener este bonus el primer requisito es haber resuelto el problema que quieres explicar (no puedes explicar un problema que no has resuelto todavía).
+  * El segundo requisito es redactar la explicación **ANTES** que se acabe el contest (para que le sirva a alguien)
   * Debes redactar una explicación entendible de la estrategia con la cual resolviste el problema. Puedes agregar dibujos, imágenes, fórmulas, ecuaciones, etc. si crees que hará tu explicación más fácil de entender.
   * Opcionalmente, puedes incluir un link al código de tu solución (por ej. hosteado en un repositorio público en GitHub) al final de tu explicación.
   * Por supueto, no olvides incluir tu nombre y apellido al final de tu explicación para que todos sepan quién lo escribió.
