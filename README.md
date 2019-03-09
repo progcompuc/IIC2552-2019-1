@@ -300,7 +300,7 @@ ___________________________________________
   * Bitwise hacks for competitive programming: https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/
   * Bit Tricks for competitive programming: https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
 * Cosas útiles que deberían saber de C++11:
-  * Tutorial: C+11 for programming contests: https://codeforces.com/blog/entry/10124
+  * Tutorial: C++11 for programming contests: https://codeforces.com/blog/entry/10124
   * Learn C++ 11 in 20 Minutes - Part I: https://youtu.be/U6mgsPqV32A
   * Learn C++ 11 in 20 Minutes - Part II: https://youtu.be/Lt0ASrloGSE
 
