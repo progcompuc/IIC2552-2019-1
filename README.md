@@ -4,6 +4,20 @@
 
 # Índice
 * [Introducción](#introducci%C3%B3n)
+* [Información Básica](#informaci%C3%B3n-b%C3%A1sica)
+* [¿Cómo funciona el curso?](#c%C3%B3mo-funciona-el-curso)
+  * [Competencias Semanales](#1-competencias-semanales)
+  * [Asistencia](#2-asistencia)
+  * [Bonuses](#3-bonuses)
+* [Cálculo de la Nota Final](#c%C3%A1lculo-de-la-nota-final)
+* [Reglas](#reglas-%C3%A9tica)
+* [Temario tentativo del Semestre](#temario-tentativo-del-semestre)
+* [Comentarios Adicionales](#comentarios-adicionales)
+  * [Sobre lenguajes de programación](#sobre-lenguajes-de-programaci%C3%B3n)
+  * [Sobre restricciones de tiempo y memoria en programación competitiva](#sobre-restricciones-de-tiempo-y-memoria-en-programaci%C3%B3n-competitiva)
+  * [Alumnos Nuevos](#alumnos-nuevos)
+* [Recursos para consultar](#recursos-para-consultar)
+  
 
 # Introducción
 
