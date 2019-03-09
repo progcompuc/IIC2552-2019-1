@@ -15,7 +15,7 @@
 * [Comentarios Adicionales](#comentarios-adicionales)
   * [Sobre lenguajes de programación](#sobre-lenguajes-de-programaci%C3%B3n)
   * [Sobre restricciones de tiempo y memoria en programación competitiva](#sobre-restricciones-de-tiempo-y-memoria-en-programaci%C3%B3n-competitiva)
-  * [Mensaje para Alumnos Nuevos](#mensaje-para-alumnos-nuevos)
+  * [Mensaje para Alumnos Nuevos](#mensaje-para-alumnos-nuevos) <<<< NOVATOS RECUERDEN LEER ESTO
 * [Recursos para consultar](#recursos-para-consultar)
   * [General](#general)
   * [Soluciones Regionales Latinoamericanas](#soluciones-de-regionales-latinoamericanas)
