@@ -20,7 +20,7 @@
   * [General](#general)
   * [Soluciones Regionales Latinoamericanas](#soluciones-de-regionales-latinoamericanas)
   * [Soluciones, Inputs y Outputs oficiales de Regionales Norteamericanas](#soluciones-inputs-y-outputs-oficiales-de-regionales-norteamericanas)
-  * [Para aprender C++ (MUY RECOMENDADO)](https://github.com/ProgramacionCompetitivaPUC/IIC2552-2019-1#para-aprender-c-muy-recomendado)
+  * [Para aprender C++ (MUY RECOMENDADO)](#para-aprender-c-muy-recomendado)
   * [Material para Temas Específicos](#material-para-temas-espec%C3%ADficos)
     * [Tricks para problemas Ad-Hoc](#tricks-para-problemas-ad-hoc)
     * [Tips para implementación con C++](#tips-para-implementaci%C3%B3n-con-c)
