@@ -290,15 +290,22 @@ ___________________________________________
  * General Ideas: https://codeforces.com/blog/entry/48417
  
 ### Tips para implementación con C++
-* [Topcoder: power up c++ with the standard template library part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
-* [Topcoder: power up c++ with the standard template library part 2](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
 * [Youtube playlist: lista exhaustiva de videos cubriendo muchísimos aspectos de C++](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
+* STL: standard template library:
+  * Introduction of STL #1: Overview: https://youtu.be/ltBdTiRgSaw
+  * Introduction of STL #2: Sequence Containers: https://youtu.be/gxZJ5JNuWMY
+  * Introduction of STL #3: Associative Containers: https://youtu.be/6iyzPed7FrM
+  * Introduction of STL #4: Unordered Containers: https://youtu.be/NNLvY9O7ufU
+  * Introduction of STL #5: Iterators and Algorithms: https://youtu.be/vO2AlrBf5rQ
+  * Introduction of STL #6: Functors: https://youtu.be/shqvSkk8r0M
+  * [Topcoder: power up c++ with the standard template library part 1](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
+  * [Topcoder: power up c++ with the standard template library part 2](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
 * [Youtube playlist: varios algoritmos de la librería estándar de C++ para llegar y usar](https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5)
 * Para aprender a trabajar con bits:
   * [Tutorial sobre Bitwise Operators](https://www.cprogramming.com/tutorial/bitwise_operators.html)
   * [¿Qué es bit masking?](https://stackoverflow.com/questions/10493411/what-is-bit-masking)
-  * Bitwise hacks for competitive programming: https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/
-  * Bit Tricks for competitive programming: https://www.geeksforgeeks.org/bit-tricks-competitive-programming/
+  * [geeksforgeeks - Bitwise hacks for competitive programming](https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
+  * [geeksforgeeks - Bit Tricks for competitive programming](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
 * Cosas útiles que deberían saber de C++11:
   * Tutorial: C++11 for programming contests: https://codeforces.com/blog/entry/10124
   * Learn C++ 11 in 20 Minutes - Part I: https://youtu.be/U6mgsPqV32A
