@@ -295,6 +295,7 @@ ___________________________________________
 * [Youtube playlist: lista exhaustiva de videos cubriendo muchísimos aspectos de C++](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
 * [Youtube playlist: varios algoritmos de la librería estándar de C++ para llegar y usar](https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5)
 * [Tutorial sobre Bitwise Operators](https://www.cprogramming.com/tutorial/bitwise_operators.html)
+* [¿Qué es bit masking?](https://stackoverflow.com/questions/10493411/what-is-bit-masking)
 
 ### Backtracking
 * https://progcomp.cl/backtracking
