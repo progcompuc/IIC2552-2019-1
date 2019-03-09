@@ -3,7 +3,7 @@
 ## 2019-1
 
 # Índice
-* [Introducción](https://github.com/ProgramacionCompetitivaPUC/IIC2552-2019-1#introducci%C3%B3n)
+* [Introducción](#introducci%C3%B3n)
 
 # Introducción
 
