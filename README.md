@@ -42,8 +42,6 @@ L@s mejores estudiantes podrán ser seleccionad@s para representar a la universi
 
 Sin embargo, las habilidades que adquirirás en este curso van mucho más allá que simplemente ganar competencias. Muchos de los algoritmos y técnicas que verás son clásicos y como tales forman parte de la "cultura general algorítmica" a la que como estudiante de Ciencia de la Computación se espera que seas expuest@ durante tu formación. Pero además también aprenderás a pensar algorítmicamente de un modo más profundo, ya que la gran mayoría de los problemas te exigirán idear un nuevo algoritmo de forma creativa e ingeniosa, en lugar de aplicar un algoritmo clásico de forma directa. Ejercitarás habilidades como descomponer problemas complejos en subproblemas más simples, considerar diferentes estrategias frente a un mismo problema, planificar soluciones paso por paso considerando aspectos como memoria disponible, tiempo de ejecución y casos bordes. En definitiva, aprenderás a **pensar cuidadosamente antes de programar**. Estas habilidades serán de gran valor en tus otros cursos, en entrevistas de trabajo (Google, Microsoft, Facebook, etc.), y a la larga en tu carrera profesional.
 
-**Nota:** alumnos nuevos no olviden leer la sección "alumnos nuevos" en comentarios adicionales.
-
 # Información Básica
 Clases: 14:00-18:30, sala Javier Pinto, DCC
 
