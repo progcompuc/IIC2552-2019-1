@@ -290,6 +290,7 @@ ___________________________________________
  * General Ideas: https://codeforces.com/blog/entry/48417
  
 ### Tips para implementación con C++
+* String handling in C++: https://codeforces.com/blog/entry/6230
 * [Youtube playlist: lista exhaustiva de videos cubriendo muchísimos aspectos de C++](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
 * STL: standard template library:
   * Introduction of STL #1: Overview: https://youtu.be/ltBdTiRgSaw
