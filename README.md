@@ -2,6 +2,9 @@
 # IIC2552 - Taller de Programación Avanzada
 ## 2019-1
 
+# Índice
+* [Introducción](https://github.com/ProgramacionCompetitivaPUC/IIC2552-2019-1#introducci%C3%B3n)
+
 # Introducción
 
 En este curso aprenderás las técnicas y habilidades necesarias para resolver problemas algorítmicos de [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) tales como los que aparecen en la [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), [Codeforces](http://www.codeforces.com/), [Codechef](https://www.codechef.com/), [Topcoder](https://www.topcoder.com/) y [HackerRank](https://www.hackerrank.com/). La mayor parte de tu tiempo te la pasarás escribiendo programas para resolver problemas.
