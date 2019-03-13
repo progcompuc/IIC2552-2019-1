@@ -596,10 +596,9 @@ ___________________________________________
 _______________________________________________
 
 # Contests
-* Contest 1, Marzo 08, 10 días
-  * Puntos: 4, 4, 4, 3, 3, 3, 1 [Contest Link](https://vjudge.net/contest/285945), [Link a Explicaciones](https://docs.google.com/document/d/1c6FljbO2lOPGZj6t9NaaOFe9K9LcztIbCjyuOpiE70k/edit?usp=sharing)
+* Contest 1, Marzo 08, 10 días, Implementación & Backtracking
+  * Puntos: 4, 4, 4, 3, 3, 3, 1 [Contest](https://vjudge.net/contest/285945) [Explicaciones](https://docs.google.com/document/d/1c6FljbO2lOPGZj6t9NaaOFe9K9LcztIbCjyuOpiE70k/edit?usp=sharing)
   * Puntaje Mínimo Esperado: 5.8
-  * temas: implementación, backtracking, bitmask
   * códigos de ejemplo: [A - 8 queens chess problem](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/750_8-Queens-Chess-Problem.cpp) [A - 8 Queens chess problem - version ignacio](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/8_Queen_Cheess_Problem.cpp), [B - A problem of Backtracking](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/BTCK_A-problem-of-Backtracking.cpp) [B - A problem of Backtracking - versión Ignacio](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/A_problem_of_backtracking.cpp), [C - Map Colouring](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/MapColouring.cpp), [D - Vitamins](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/1042B_Vitamins.cpp), [F - Adding Words](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/AddingWords.cpp), [G - Reversed Binary Numbers](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/ReversedBinaryNumbers.cpp).
   
   
