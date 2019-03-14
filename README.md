@@ -291,6 +291,10 @@ ___________________________________________
 ### Tips para implementación con C++
 * String handling in C++: https://codeforces.com/blog/entry/6230
 * [Youtube playlist: lista exhaustiva de videos cubriendo muchísimos aspectos de C++](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
+* Los beneficios de usar references (&) y pointers (*):
+   * [geeksforgeeks - Passing vector to a function in C++](https://www.geeksforgeeks.org/passing-vector-function-cpp/)
+   * [geeksforgeeks - When do we pass arguments by reference or pointer?](https://www.geeksforgeeks.org/when-do-we-pass-arguments-by-reference-or-pointer/)   
+   * Diferencias entre references y pointers: http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html
 * STL: standard template library:
   * Introduction of STL #1: Overview: https://youtu.be/ltBdTiRgSaw
   * Introduction of STL #2: Sequence Containers: https://youtu.be/gxZJ5JNuWMY
