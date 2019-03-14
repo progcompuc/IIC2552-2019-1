@@ -50,6 +50,7 @@ Profesor: Pablo Messina (pamessina@uc.cl)
 Ayudante: Ignacio Hermosilla (ithermosilla@uc.cl)
 
 Telegram del curso: https://t.me/joinchat/BnXT1xQcSRlCklPnArpHyw (medio oficial de comunicación)
+** Telegram tiene aplicación de escritorio por si acaso: https://desktop.telegram.org/
 
 Spreadsheet de notas y asistencia: [link](https://docs.google.com/spreadsheets/d/13NJgv8usjIq8LeWcR_ctjFQHK_Wm9TejJNGIuKvI0Gc/edit?usp=sharing)
 
