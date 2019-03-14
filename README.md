@@ -294,7 +294,7 @@ ___________________________________________
 * Los beneficios de usar references (&) y pointers (*):
    * [geeksforgeeks - Passing vector to a function in C++](https://www.geeksforgeeks.org/passing-vector-function-cpp/)
    * [geeksforgeeks - When do we pass arguments by reference or pointer?](https://www.geeksforgeeks.org/when-do-we-pass-arguments-by-reference-or-pointer/)   
-   * Diferencias entre references y pointers: http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html
+   * [Diferencia entre references y pointers explicada](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html)
 * STL: standard template library:
   * Introduction of STL #1: Overview: https://youtu.be/ltBdTiRgSaw
   * Introduction of STL #2: Sequence Containers: https://youtu.be/gxZJ5JNuWMY
