@@ -607,6 +607,6 @@ _______________________________________________
 
 * Contest 2, Marzo 15, 10 días, Implementación & Backtracking, [link a **contest**](https://vjudge.net/contest/288151), [link a **explicaciones**](https://docs.google.com/document/d/1y4-okA-4KlmQfAs7-aHBikULGor1mLt5dxvCKgL2Ogc/)
   * enunciados: [A](https://vjudge.net/problem/1162860/origin), [B](https://vjudge.net/problem/509134/origin), [C](https://vjudge.net/problem/52968/origin), [D](https://vjudge.net/problem/2280568/origin), [E](https://uva.onlinejudge.org/external/4/441.pdf), F([1](https://uva.onlinejudge.org/external/5/574.pdf),[2](https://icpcarchive.ecs.baylor.edu/external/53/5319.pdf)), [G](https://vjudge.net/problem/613719/origin)
-  * **Puntos**: _pendiente_     **Puntaje Mínimo Esperado**: _pendiente_
+  * **Puntos**: 5, 4, 3, 4, 3, 4, 3    **Puntaje Mínimo Esperado**: 7.8
   * **códigos de ejemplo**: _pendiente_
 
