@@ -10,7 +10,7 @@
   * [Asistencia](#2-asistencia)
   * [Bonuses](#3-bonuses)
 * [Cálculo de la Nota Final](#c%C3%A1lculo-de-la-nota-final)
-* [Reglas (Ética)](#reglas-%C3%A9tica)
+* [**Reglas (Ética)**](#reglas-%C3%A9tica) <<<<<<<<<<<<<<<<<<<<<<<<<<<<< **TODOS** LEER ESTO POR FAVOR!!
 * [Temario tentativo del Semestre](#temario-tentativo-del-semestre)
 * [Comentarios Adicionales](#comentarios-adicionales)
   * [Sobre lenguajes de programación](#sobre-lenguajes-de-programaci%C3%B3n)
