@@ -605,7 +605,7 @@ _______________________________________________
   * **códigos de ejemplo**: [A - Tight Fit Sudoku](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/TightFitSudoku.cpp),		[B - All About That Base](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/AllAboutThatBase.cpp),		[C - ALL IZZ WELL](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/ALLIZWEL.cpp),
 [D - Zagrade](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/zagrade.cpp) [D - Zagrade - version Pablo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/Zagrade.cpp), [E - Lotto](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/441_Lotto.cpp), [F - Sum It Up](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/5319_SumItUp.cpp), [G - Pizza Hawaii](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/PizzaHawaii.cpp)
 
-* Contest 3, Marzo 22, 10 días, Implementación & Backtracking, [link a **contest**](https://vjudge.net/contest/289571), [link a **explicaciones**](_pending_)
+* Contest 3, Marzo 22, 10 días, Implementación & Backtracking, [link a **contest**](https://vjudge.net/contest/289571), link a **explicaciones**: _pending_
   * **enunciados**: _pending_
   * **Puntos**: _pending    **Puntaje Mínimo Esperado**: _pending_
   * **códigos de ejemplo**: _pending_
