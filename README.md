@@ -10,6 +10,7 @@
   * [Asistencia](#2-asistencia)
   * [Bonuses](#3-bonuses)
 * [Cálculo de la Nota Final](#c%C3%A1lculo-de-la-nota-final)
+* [Estoy pegad@, no sé resolver un problema, no se me ocurre, no sé implementarlo, ¿qué puedo hacer?](#estoy-pegad-no-sé-resolver-un-problema-no-se-me-ocurre-no-sé-implementarlo-qué-puedo-hacer)
 * [**Reglas (Ética)**](#reglas-%C3%A9tica) <<<<<<<<<<<<<<<<<<<<<<<<<<<<< **TODOS** LEER ESTO POR FAVOR!!
 * [Temario tentativo del Semestre](#temario-tentativo-del-semestre)
 * [Comentarios Adicionales](#comentarios-adicionales)
@@ -185,7 +186,7 @@ En programación competitiva el lenguaje más utilizado por lejos es C++ (y dent
  
 ### Mensaje para Alumnos Nuevos
 
-No se sientan intimidados. Durante las primeras semanas del curso les enseñaremos las cosas básicas, desde cómo instalar C++ hasta demostraciones en vivo de cómo programar, compilar y ejecutar la solución de un problema en C++. Las primeras semanas los temas que se verán son sencillos (Backtracking y Binary Search, temas que se ven en Introducción a la Programación), donde la teoría es relativamente fácil y la mayor dificultad reside en la implementación (escribir código). Estas primeras semanas serán ideales para ejercitar sus habilidades de programación, para que aprovechen de soltar la mano y estar en buenas condiciones para enfrentar temas más complejos. Además, no es necesario que programen altiro en C++. Si prefieren programar en Python, es perfectamente válido y pueden hacerlo. No obstante, les recomendamos que traten de ir aprendiendo C++ poco a poco, por los motivos señalados más arriba (en el comentario [sobre-lenguajes-de-programación](#sobre-lenguajes-de-programaci%C3%B3n)).
+No se sientan intimidados. Durante las primeras semanas del curso les enseñaremos las cosas básicas, desde cómo instalar C++ hasta demostraciones en vivo de cómo programar, compilar y ejecutar la solución de un problema en C++. Las primeras semanas los temas que se verán son sencillos (Backtracking y Binary Search, temas que se ven en Introducción a la Programación), donde la teoría es relativamente fácil y la mayor dificultad reside en la implementación (escribir código). Estas primeras semanas serán ideales para ejercitar sus habilidades de programación, para que aprovechen de soltar la mano y estar en buenas condiciones para enfrentar temas más complejos. Además, no es necesario que programen en C++. Si prefieren programar en Python, es perfectamente válido y pueden hacerlo. Si quieren pueden hacer el curso entero en Python. No obstante, por una razón práctica (que pueden leer en el comentario [sobre-lenguajes-de-programación](#sobre-lenguajes-de-programaci%C3%B3n)) nuestra recomendación es tratar de ir aprendiendo C++ poco a poco (por ej. de vez en cuando hacer el esfuerzo de programar algún problemita en C++). Además, [recuerden que siempre pueden pedir ayuda](#estoy-pegad-no-sé-resolver-un-problema-no-se-me-ocurre-no-sé-implementarlo-qué-puedo-hacer).
 
 
 _________________________________
