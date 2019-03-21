@@ -149,7 +149,7 @@ Grupal
 * Tutifruti (de todo, resto del semestre)
 
 # Estoy pegad@, no sé resolver un problema, no se me ocurre, no sé implementarlo, ¿qué puedo hacer?
-En el curso hay varias formas de recibir ayuda en aquellos momentos de frustración.
+En programación competitiva es normal encontrarse con problemas fuera de nuestra zona de comfort, problemas que nos superan, que nos frutran y hasta llegar a deprimirnos. Problemas que nos hacen decir ["Oh, y ahora quién podrá .. ayudarme?"](https://www.youtube.com/watch?v=VQAonx_tUjM). Hay buenas noticias: ¡existen muchas formas de recibir ayuda!
 
 Primero que todo, están los talleres presenciales (3 módulos los días viernes). Tanto el profesor como el ayudante estaremos físicamente ahí presentes para que nos bombardeen con preguntas. Tanto código como teoría, lo que sea. No tengan miedo, pregunten. Del mismo modo, también están sus compañer@s. En un curso siempre hay alumn@s más experimentad@s que sobresalen. Aprovechenl@s y háganles preguntas. Conversen. No es necesario estar toda la clase callad@ sin interactuar con nadie. La idea es que aprovechen la instancia presencial para discutir sobre los problemas con sus compañer@s y con el staff del curso.
 
