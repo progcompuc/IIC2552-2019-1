@@ -10,9 +10,9 @@
   * [Asistencia](#2-asistencia)
   * [Bonuses](#3-bonuses)
 * [Cálculo de la Nota Final](#c%C3%A1lculo-de-la-nota-final)
+* [Temario tentativo del Semestre](#temario-tentativo-del-semestre)
 * [Estoy pegad@, no sé resolver un problema, no se me ocurre, no sé implementarlo, ¿qué puedo hacer?](#estoy-pegad-no-sé-resolver-un-problema-no-se-me-ocurre-no-sé-implementarlo-qué-puedo-hacer)
 * [**Reglas (Ética)**](#reglas-%C3%A9tica) <<<<<<<<<<<<<<<<<<<<<<<<<<<<< **TODOS** LEER ESTO POR FAVOR!!
-* [Temario tentativo del Semestre](#temario-tentativo-del-semestre)
 * [Comentarios Adicionales](#comentarios-adicionales)
   * [Sobre lenguajes de programación](#sobre-lenguajes-de-programaci%C3%B3n)
   * [Sobre restricciones de tiempo y memoria en programación competitiva](#sobre-restricciones-de-tiempo-y-memoria-en-programaci%C3%B3n-competitiva)
@@ -135,6 +135,19 @@ La nota final del curso se calculará de la siguiente manera:
    * Nota_v3 = Nota_v2 + BONUS EXPLICACIÓN PROBLEMA + BONUS RPC + BONUS Codeforces
 * Todo lo anterior se encuentra formalizado en el [spreadsheet de notas y asistencia](https://docs.google.com/spreadsheets/d/13NJgv8usjIq8LeWcR_ctjFQHK_Wm9TejJNGIuKvI0Gc/edit?usp=sharing)
 
+# Temario tentativo del Semestre
+
+Individual
+* Implementación, Fuerza Bruta, Backtracking (3 semanas)
+* Binary Search (2 semanas)
+* DP básico (2 semanas)
+* Grafos básico (3 semanas)
+* Geometría básica (1 semana)
+* Matemática (3 semanas)
+
+Grupal
+* Tutifruti (de todo, resto del semestre)
+
 # Estoy pegad@, no sé resolver un problema, no se me ocurre, no sé implementarlo, ¿qué puedo hacer?
 En el curso hay varias formas de recibir ayuda en aquellos momentos de frustración.
 
@@ -159,19 +172,6 @@ Puedes hacer uso de recursos en línea al resolver problemas. Esto incluye docum
 Si llegamos a descubrir una copia, el  **castigo consistirá en lo siguiente**:
 1) Primera copia: nota_final = max(min(nota_v3, 7) - 3, 1)
 2) Segunda copia: nota_final = 1 + causal de eliminación
-
-# Temario tentativo del Semestre
-
-Individual
-* Implementación, Fuerza Bruta, Backtracking (3 semanas)
-* Binary Search (2 semanas)
-* DP básico (2 semanas)
-* Grafos básico (3 semanas)
-* Geometría básica (1 semana)
-* Matemática (3 semanas)
-
-Grupal
-* Tutifruti (de todo, resto del semestre)
 
 # Comentarios Adicionales
 
