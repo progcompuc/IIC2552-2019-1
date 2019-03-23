@@ -320,6 +320,12 @@ ___________________________________________
   * Tutorial: C++11 for programming contests: https://codeforces.com/blog/entry/10124
   * Learn C++ 11 in 20 Minutes - Part I: https://youtu.be/U6mgsPqV32A
   * Learn C++ 11 in 20 Minutes - Part II: https://youtu.be/Lt0ASrloGSE
+* ¿Qué son y para qué sirven **Structs** y **Classes** en C++?
+  * Advanced C++: Struct Vs. Class: https://youtu.be/qJ4Kzk6mnFc
+  * Introduction to Structures in C++ | CPP Programming Video Tutorial: https://youtu.be/6gg9Xlv35-I
+  * Buckys C++ Programming Tutorials - 12 - Introduction to Classes and Objects: https://youtu.be/ABRP_5RYhqU
+  * Structure and Class differences in C++ | C ++ Tutorial | Mr. Kishore: https://youtu.be/W1f3TelobMg
+  * CLASSES vs STRUCTS in C++: https://youtu.be/fLgTtaqqJp0
 
 ### Backtracking
 * https://progcomp.cl/backtracking
