@@ -295,7 +295,11 @@ ___________________________________________
  * General Ideas: https://codeforces.com/blog/entry/48417
  
 ### Tips para implementación con C++
-* String handling in C++: https://codeforces.com/blog/entry/6230
+* Cosas útiles que deberían saber de **C++11** (<<<< **PARA ESCRIBIR CÓDIGOS MÁS CORTOS Y ELEGANTES**):
+  * Tutorial: C++11 for programming contests: https://codeforces.com/blog/entry/10124
+  * Learn C++ 11 in 20 Minutes - Part I: https://youtu.be/U6mgsPqV32A
+  * Learn C++ 11 in 20 Minutes - Part II: https://youtu.be/Lt0ASrloGSE
+* [Codeforces - Manejo de Strings en C++](https://codeforces.com/blog/entry/6230) (<<< **buenos tips para cuando tienen que leer input**)
 * [Youtube playlist: lista exhaustiva de videos cubriendo muchísimos aspectos de C++](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
 * Los beneficios de usar references (&) y pointers (*):
    * [geeksforgeeks - Passing vector to a function in C++](https://www.geeksforgeeks.org/passing-vector-function-cpp/)
@@ -316,10 +320,6 @@ ___________________________________________
   * [¿Qué es bit masking?](https://stackoverflow.com/questions/10493411/what-is-bit-masking)
   * [geeksforgeeks - Bitwise hacks for competitive programming](https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
   * [geeksforgeeks - Bit Tricks for competitive programming](https://www.geeksforgeeks.org/bit-tricks-competitive-programming/)
-* Cosas útiles que deberían saber de C++11:
-  * Tutorial: C++11 for programming contests: https://codeforces.com/blog/entry/10124
-  * Learn C++ 11 in 20 Minutes - Part I: https://youtu.be/U6mgsPqV32A
-  * Learn C++ 11 in 20 Minutes - Part II: https://youtu.be/Lt0ASrloGSE
 * ¿Qué son y para qué sirven **Structs** y **Classes** en C++?
   * Advanced C++: Struct Vs. Class: https://youtu.be/qJ4Kzk6mnFc
   * Introduction to Structures in C++ | CPP Programming Video Tutorial: https://youtu.be/6gg9Xlv35-I
