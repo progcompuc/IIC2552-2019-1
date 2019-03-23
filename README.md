@@ -625,5 +625,5 @@ _______________________________________________
 
 * Contest 3, Marzo 22, 10 días, Implementación & Backtracking, [link a **contest**](https://vjudge.net/contest/289571), [link a **explicaciones**](https://docs.google.com/document/d/1IqP8cwuGTmsfBduOK4HHiSoMKvXhDdr58thltLdYEg0/edit?usp=sharing)
   * **enunciados**: [A](https://vjudge.net/problem/14556/origin), [B](https://vjudge.net/problem/1162851/origin), [C](https://vjudge.net/problem/24139/origin), [D](https://vjudge.net/problem/680588/origin), [E](https://vjudge.net/problem/28532/origin), [F](https://vjudge.net/problem/19668/origin), [G](https://vjudge.net/problem/43047/origin), [H](https://vjudge.net/problem/812880/origin)
-  * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
+  * **Puntos**: 6, 7, 5, 5, 4, 3, 5, 3  **Puntaje Mínimo Esperado**: 5.4
   * **códigos de ejemplo**: _pending_
