@@ -305,7 +305,7 @@ ___________________________________________
    * [geeksforgeeks - Passing vector to a function in C++](https://www.geeksforgeeks.org/passing-vector-function-cpp/)
    * [geeksforgeeks - When do we pass arguments by reference or pointer?](https://www.geeksforgeeks.org/when-do-we-pass-arguments-by-reference-or-pointer/)   
    * [Diferencia entre references y pointers explicada](http://www.ntu.edu.sg/home/ehchua/programming/cpp/cp4_pointerreference.html)
-* STL: standard template library:
+* STL: standard template library (<<< buen material sobre la standard library de C++, **MUY RECOMENDADO**)
   * Introduction of STL #1: Overview: https://youtu.be/ltBdTiRgSaw
   * Introduction of STL #2: Sequence Containers: https://youtu.be/gxZJ5JNuWMY
   * Introduction of STL #3: Associative Containers: https://youtu.be/6iyzPed7FrM
