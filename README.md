@@ -243,6 +243,7 @@ _________________________________
 
 ### Soluciones, Inputs y Outputs oficiales de Regionales Norteamericanas
 * http://acmgnyr.org
+* http://cs.ecs.baylor.edu/~hamerly/icpc/
 
 ### Para aprender C++ (MUY RECOMENDADO)
  * INPUT / OUTPUT:
