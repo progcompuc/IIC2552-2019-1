@@ -106,6 +106,7 @@ Además de las competencias semanales, existen varias formas de obtener décimas
     * Si tu explicación incluye un análisis / estimación de la complejidad computacional del algoritmo (por qué no da [TLE](https://www.geeksforgeeks.org/overcome-time-limit-exceedtle/)?)
     * Si es que agregaste un link a tu solución en código
       * la calidad de este código (si está ordenado, si está razonablemente comentado)
+      * **Si tu código está en C++ (preferiblemente C++11)**. Sabemos que la mayoría se siente más comoda programando en Python, por lo que programar en C++ requiere (al menos al principio) un esfuerzo adicional. Aquellas personas que escriban su código en C++ y lo compartan al final de su explicación tendrán más décimas, como recompensa a su esfuerzo ([tips para programar en C++/C++11](#tips-para-implementación-con-c))
   
 * __BONUS RPC__ (grupal): Cada cierto tiempo la [Red de Programación Competitiva (RPC)](http://redprogramacioncompetitiva.com/) organiza competencias de entrenamiento. El calendario y registro para estas competencias se encuentran acá: http://registro.redprogramacioncompetitiva.com/contests, y los scoreboards de las competencias pasadas se pueden encontrar acá: http://redprogramacioncompetitiva.com/Contest. Nótese que se trata de un **bonus grupal**, por ende para obtener este bonus deben:
   * Registrarse en una competencia en grupos de 2 o 3 alumn@s.
