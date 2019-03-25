@@ -344,6 +344,7 @@ ___________________________________________
   * [Youtube - Algorithms: Binary Search](https://youtu.be/P3YID7liBug)
   * http://progcomp.cl/binarysearch
   * [Ejemplo de implementación en C++](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/BinarySearch.cpp)  
+  * [geeksforgeeks - Binary Search functions in C++ STL (binary_search, lower_bound and upper_bound)](https://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/)
   * caso especial: [binary search on doubles - codeforces](http://codeforces.com/blog/entry/20390) **cuando el problema es continuo (no-discreto)**
 * Ternary Search:
   * https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/
