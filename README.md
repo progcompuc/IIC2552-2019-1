@@ -632,3 +632,8 @@ _______________________________________________
     * Sobre el B - Magical Mystery Knight's Tour: si pasan 51/52 test cases está bien (Kattis tiene un tiempo muy estricto para el test case 52, si pasan los primeros 51 test cases y en el 52 les da TLE el problema igual está bueno).
   * **Puntos**: 6, 7, 5, 5, 4, 3, 5, 3  **Puntaje Mínimo Esperado**: 5.4
   * **códigos de ejemplo**: [A - Report Recovery](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/3658_ReportRecovery.cpp), [B - Magical Mystery Knight's Tour](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/MagicalMysterKnightsTour.cpp), [D - Association for Cool Machineries (Part 1)](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/AssociationForCoolMachineries(part1).cpp), [E - Distributing Ballot Boxes](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/5822_DistributingBallotBoxes.cpp), [F - Mapping the Swaps](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/331_MappingTheSwaps.cpp), [H - Touchscreen Keyboard](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/TouchscreenKeyboard.cpp)
+  
+* Contest 4, Marzo 29, 10 días, Binary Search, [link a **contest**](https://vjudge.net/contest/291141), [link a **explicaciones**](pending)
+  * **enunciados**: _pending_
+  * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+  * **códigos de ejemplo**: _pending_
