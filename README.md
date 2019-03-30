@@ -318,6 +318,7 @@ ___________________________________________
   * [Topcoder: power up c++ with the standard template library part 2](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-2/)
   * [Youtube playlist: varios algoritmos de la librería estándar de C++ para llegar y usar](https://www.youtube.com/playlist?list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5)
 * Para aprender a trabajar con bits:
+  * [HackerRank - Algorithms: Bit Manipulation](https://youtu.be/NLKQEOgBAnw)
   * [Tutorial sobre Bitwise Operators](https://www.cprogramming.com/tutorial/bitwise_operators.html)
   * [¿Qué es bit masking?](https://stackoverflow.com/questions/10493411/what-is-bit-masking)
   * [geeksforgeeks - Bitwise hacks for competitive programming](https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
