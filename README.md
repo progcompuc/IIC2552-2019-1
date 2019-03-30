@@ -637,5 +637,5 @@ _______________________________________________
   
 * Contest 4, Marzo 29, 10 días, Binary Search, [link a **contest**](https://vjudge.net/contest/291141), [link a **explicaciones**](https://docs.google.com/document/d/12PdCr1fCv3uCrzu_nIEaZ6EjMQpxhSfWdn7Tta2GuJk/edit)
   * **enunciados**: [A](https://vjudge.net/problem/1983901/origin),		[B](https://vjudge.net/problem/1983915/origin),		[C](https://vjudge.net/problem/21635/origin),		[D](https://vjudge.net/problem/27471/origin),		[E](https://vjudge.net/problem/32603/origin),		[F](https://vjudge.net/problem/89213/origin),		[G](https://vjudge.net/problem/344888/origin),		[H](https://vjudge.net/problem/687762/origin)
-  * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+  * **Puntos**: 2, 2, 5, 4, 5, 3, 4, 4  **Puntaje Mínimo Esperado**: 6.4
   * **códigos de ejemplo**: _pending_
