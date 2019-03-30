@@ -384,6 +384,7 @@ ___________________________________________
 
 ### Dynamic Programming (DP):
 * ¿Qué es DP?
+  * https://www.youtube.com/watch?v=5dRGRueKU3M
   * https://www.youtube.com/watch?v=OQ5jsbhAv_M  
   * https://www.youtube.com/watch?v=P8Xa2BitN3I
   * https://www.youtube.com/watch?v=P8Cm_koLdxM
