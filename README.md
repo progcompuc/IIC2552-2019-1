@@ -643,4 +643,7 @@ _______________________________________________
 * Contest 5, Abril 04, 11 días, Binary Search, [link a **contest**](https://vjudge.net/contest/292283), link a **explicaciones**: _pending_
   * **enunciados**: [A](https://vjudge.net/problem/34983/origin),		[B](https://vjudge.net/problem/1929872/origin),		[C](https://vjudge.net/problem/139137/origin),		[D](https://vjudge.net/problem/1057369/origin),		[E](https://vjudge.net/problem/2225616/origin),		[F](https://vjudge.net/problem/827112/origin),		[G](https://vjudge.net/problem/2037788/origin),		[H](https://vjudge.net/problem/244517/origin)
   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-  * **códigos de ejemplo**: _pending_
+  * **códigos de ejemplo**: [B - Nature reserve](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/nature_reserve.cpp)
+  
+  
+
