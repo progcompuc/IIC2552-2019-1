@@ -642,7 +642,7 @@ _______________________________________________
 
 * Contest 5, Abril 04, 11 días, Binary Search, [link a **contest**](https://vjudge.net/contest/292283), [link a **explicaciones**](https://docs.google.com/document/d/1lWBleXlsS9xN0UT2Ke4mUlX5eiwp9PEXJt8gxFieM3g/edit)
   * **enunciados**: [A](https://vjudge.net/problem/34983/origin),		[B](https://vjudge.net/problem/1929872/origin),		[C](https://vjudge.net/problem/139137/origin),		[D](https://vjudge.net/problem/1057369/origin),		[E](https://vjudge.net/problem/2225616/origin),		[F](https://vjudge.net/problem/827112/origin),		[G](https://vjudge.net/problem/2037788/origin),		[H](https://vjudge.net/problem/244517/origin)
-  * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+  * **Puntos**: 5, 5, 5, 4, 6, 3, 4, 6  **Puntaje Mínimo Esperado**: 5.6
   * **códigos de ejemplo**: [A - Environment Protection](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6135_EnvironmentProtection.cpp), [B - Nature reserve](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/nature_reserve.cpp), [C - The Art of Dealing with ATM](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/524C_TheArtOfDealingWithATMs.cpp), [D - Freight Train](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/FreightTrain.cpp), [F - Need for Speed](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/NeedForSpeed.cpp)
   
   
