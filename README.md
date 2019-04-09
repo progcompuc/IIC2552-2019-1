@@ -27,9 +27,9 @@
     * [Tips para implementación con C++](#tips-para-implementaci%C3%B3n-con-c)
     * [Backtracking](#backtracking)
     * [Binary & Ternary Search](#search)
-    * [Data Structures](#data-structures)
     * [Dynamic Programming (DP)](#dynamic-programming-dp)
     * [Graphs](#graphs)
+    * [Data Structures](#data-structures)
     * [Strings](#strings)
     * [Mathematics](#mathematics)
     * [Geometry](#geometry)
@@ -353,42 +353,12 @@ ___________________________________________
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Search/TernarySearch.cpp
   * **Cómo reducir Ternary Search a Binary Search**: [Codeforces - The great ternary search hoax](http://codeforces.com/blog/entry/11497)
 
-### Data Structures:
-* Union Find (Disjoint Sets):
-  * https://www.youtube.com/watch?v=ID00PMy0-vE
-  * http://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/unionfind.cpp
-* Segment Tree:
-  * http://progcomp.cl/segmenttree
-  * https://www.youtube.com/watch?v=ZBHKZF5w4YU
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
-* Segment Tree Lazy: 
-   * Lazy Propagation Segment Tree: https://www.youtube.com/watch?v=xuoQdt5pHj0
-   * Segment Tree - Range Queries with Lazy Updates: https://www.youtube.com/watch?v=CN0N1ddJ9hA
-   * Implementaciones de Ejemplo:
-     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree-lazy.cpp
-     
-* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):
-  * [HackerEarth - binary indexed tree made easy](https://www.hackerearth.com/practice/notes/binary-indexed-tree-made-easy-2/)
-  * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160
-    * https://youtu.be/0PzR0IoqkkU?t=1453 (por si quieren ver la explicación de **sweep line** también que viene justo antes)
-  * (recomendado) https://www.youtube.com/watch?v=CWDQJGaN1gY
-  * http://progcomp.cl/fenwicktree
-  * https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a
-  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
-* Fenwick Tree 2D:
-  * http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
-  * (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=4207
-  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
-* Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
-
 ### Dynamic Programming (DP):
 * ¿Qué es DP?
   * [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw) **<<<<< MUY BUEN VIDEO, VÉANLO!**
   * [Principle of Optimality - Dynamic Programming introduction](https://www.youtube.com/watch?v=5dRGRueKU3M)  
   * [Algorithms: Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I)
   * [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
-  * [https://www.youtube.com/watch?v=P8Cm_koLdxM](Introduction to Dynamic Programming by Abhishek)
 * Dos formas generales de usar DP: Bottom-Up vs Top-Down:
   * http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
 * Ejemplos de **problemas concretos** donde se puede usar DP:
@@ -483,6 +453,36 @@ ___________________________________________
      * http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15451-f14/www/lectures/lec11/dinic.pdf
      * http://theory.stanford.edu/~tim/w16/l/l2.pdf
      * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dinic.cpp
+
+
+### Data Structures:
+* Union Find (Disjoint Sets):
+  * https://www.youtube.com/watch?v=ID00PMy0-vE
+  * http://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/unionfind.cpp
+* Segment Tree:
+  * http://progcomp.cl/segmenttree
+  * https://www.youtube.com/watch?v=ZBHKZF5w4YU
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree.cpp
+* Segment Tree Lazy: 
+   * Lazy Propagation Segment Tree: https://www.youtube.com/watch?v=xuoQdt5pHj0
+   * Segment Tree - Range Queries with Lazy Updates: https://www.youtube.com/watch?v=CN0N1ddJ9hA
+   * Implementaciones de Ejemplo:
+     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Data_Structures/segment-tree-lazy.cpp
+     
+* Fenwick Tree (a.k.a. BIT o Binary Indexed Tree):
+  * [HackerEarth - binary indexed tree made easy](https://www.hackerearth.com/practice/notes/binary-indexed-tree-made-easy-2/)
+  * (recomendado) (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=2160
+    * https://youtu.be/0PzR0IoqkkU?t=1453 (por si quieren ver la explicación de **sweep line** también que viene justo antes)
+  * (recomendado) https://www.youtube.com/watch?v=CWDQJGaN1gY
+  * http://progcomp.cl/fenwicktree
+  * https://cs.stackexchange.com/questions/10538/bit-what-is-the-intuition-behind-a-binary-indexed-tree-and-how-was-it-thought-a
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+* Fenwick Tree 2D:
+  * http://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
+  * (explicación de Jorge Pérez) https://youtu.be/0PzR0IoqkkU?t=4207
+  * https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/#2d
+* Wavelet Tree: https://www.dcc.uchile.cl/~jperez/papers/ioiconf16.pdf
 
 ### Strings:
 * Rolling Hashing:
