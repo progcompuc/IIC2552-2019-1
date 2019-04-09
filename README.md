@@ -384,23 +384,25 @@ ___________________________________________
 
 ### Dynamic Programming (DP):
 * ¿Qué es DP?
-  * https://www.youtube.com/watch?v=5dRGRueKU3M
-  * https://www.youtube.com/watch?v=OQ5jsbhAv_M  
-  * https://www.youtube.com/watch?v=P8Xa2BitN3I
-  * https://www.youtube.com/watch?v=P8Cm_koLdxM
-* Bottom-Up vs Top-Down: http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
-* Playlist con muchos ejemplos: https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
-* DPs típicos:
-  * Knapsack:
-    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Knapsack.cpp
-  * TSP (travelling salesman problem / vendedor viajero):
-    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/TSP%20(travelling%20salesman%20problem).cpp
+  * [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw) **<<<<< MUY BUEN VIDEO, VÉANLO!**
+  * [Principle of Optimality - Dynamic Programming introduction](https://www.youtube.com/watch?v=5dRGRueKU3M)  
+  * [Algorithms: Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I)
+  * [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+  * [https://www.youtube.com/watch?v=P8Cm_koLdxM](Introduction to Dynamic Programming by Abhishek)
+* Dos formas generales de usar DP: Bottom-Up vs Top-Down:
+  * http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
+* Ejemplos de **problemas concretos** donde se puede usar DP:
+  * Coin Change: https://youtu.be/jaNZ83Q3QGc
+  * Matrix Chain Multiplication: https://youtu.be/prx1psByp7U, https://youtu.be/eKkXU3uu2zk
+  * Longest Increasing Subsequence (LIS): https://youtu.be/fV-TF4OvZpk
+  * Knapsack problem: https://youtu.be/nLmhmB6NzcM
+  * Traveling Salesman Problem (TSP): https://youtu.be/XaXsJJh-Q5Y, [implementación usando bitmasks](https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/)
+  * Otros ejemplos: https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
 * Optimizaciones para DP: 
   * Divide & Conquer Optimization:
     * http://jeffrey-xiao.github.io/#!/blog/posts/2015-12-14-Divide-and-Conquer-Optimization
     * https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
-    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Divide%26ConquerOptimization.cpp     
-    * https://www.youtube.com/watch?v=wLXEWuDWnzI
+    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Divide%26ConquerOptimization.cpp     * https://www.youtube.com/watch?v=wLXEWuDWnzI
    
 ### Graphs:
 * Slides de Nico Lehmann sobre Grafos:
