@@ -367,7 +367,7 @@ ___________________________________________
   * Longest Increasing Subsequence (LIS): [link](https://youtu.be/fV-TF4OvZpk)
   * Knapsack problem: [link](https://youtu.be/nLmhmB6NzcM)
   * Traveling Salesman Problem (TSP): [video](https://youtu.be/XaXsJJh-Q5Y), [implementación usando bitmasks](https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/)
-  * Minimum Edit Distance Between 2 Strings - The Levenshtein Distance: [link1](https://youtu.be/b6AGUjqIPsA), [link2](https://youtu.be/MiqoA-yF-0M)
+  * Minimum Edit Distance Between 2 Strings - The Levenshtein Distance: [link1](https://youtu.be/Xxx0b7djCrs), [link2](https://youtu.be/MiqoA-yF-0M)
   * Otros ejemplos: [playlist](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 * Optimizaciones para DP: 
   * Divide & Conquer Optimization:
