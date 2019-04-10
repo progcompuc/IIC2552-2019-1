@@ -362,13 +362,13 @@ ___________________________________________
 * Dos formas generales de usar DP: Bottom-Up vs Top-Down:
   * http://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
 * Ejemplos de **problemas concretos** donde se puede usar DP:
-  * Coin Change: https://youtu.be/jaNZ83Q3QGc
-  * Matrix Chain Multiplication: https://youtu.be/prx1psByp7U, https://youtu.be/eKkXU3uu2zk
-  * Longest Increasing Subsequence (LIS): https://youtu.be/fV-TF4OvZpk
-  * Knapsack problem: https://youtu.be/nLmhmB6NzcM
-  * Traveling Salesman Problem (TSP): https://youtu.be/XaXsJJh-Q5Y, [implementación usando bitmasks](https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/)
-  * Minimum Edit Distance Between 2 Strings - The Levenshtein Distance: https://youtu.be/b6AGUjqIPsA, https://youtu.be/MiqoA-yF-0M
-  * Otros ejemplos: https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+  * Coin Change: [link](https://youtu.be/jaNZ83Q3QGc)
+  * Matrix Chain Multiplication: [link1](https://youtu.be/prx1psByp7U), [link2](https://youtu.be/eKkXU3uu2zk)
+  * Longest Increasing Subsequence (LIS): [link](https://youtu.be/fV-TF4OvZpk)
+  * Knapsack problem: [link](https://youtu.be/nLmhmB6NzcM)
+  * Traveling Salesman Problem (TSP): [video](https://youtu.be/XaXsJJh-Q5Y), [implementación usando bitmasks](https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/)
+  * Minimum Edit Distance Between 2 Strings - The Levenshtein Distance: [link1](https://youtu.be/b6AGUjqIPsA), [link2](https://youtu.be/MiqoA-yF-0M)
+  * Otros ejemplos: [playlist](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 * Optimizaciones para DP: 
   * Divide & Conquer Optimization:
     * http://jeffrey-xiao.github.io/#!/blog/posts/2015-12-14-Divide-and-Conquer-Optimization
