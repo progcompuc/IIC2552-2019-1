@@ -650,7 +650,7 @@ _______________________________________________
   
 * Contest 6, Abril 11, 11 días, Dynamic Programming (DP), [link a **contest**](https://vjudge.net/contest/293759), [link a **explicaciones**](https://docs.google.com/document/d/10ThVY2nNsZkppj7fOP3u8CoRrAkL519EVApUStaAf5c/edit)
   * **enunciados**: [A](https://vjudge.net/problem/18381/origin),		[B](https://vjudge.net/problem/588845/origin),		[C](https://vjudge.net/problem/23734/origin),		[D](https://vjudge.net/problem/53356/origin),		[E](https://vjudge.net/problem/20886/origin),		[F](https://vjudge.net/problem/20931/origin),		[G](https://vjudge.net/problem/20930/origin),		[H](https://vjudge.net/problem/20929/origin)
-  * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+  * **Puntos**: 3, 3, 5, 4, 6, 4, 4, 6  **Puntaje Mínimo Esperado**: 6
   * **códigos de ejemplo**: [A - Staircases](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1017_Staircases.cpp), [B - The Coin Change Problem](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/hackerrank/TheCoinChangeProblem.cpp), [F - Scuba diver](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/SCUBADIV_ScubaDiver.cpp), [E - Nested Dolls](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MDOLLS_NestedDolls.cpp)
   
   
