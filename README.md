@@ -364,7 +364,7 @@ ___________________________________________
 * Ejemplos de **problemas concretos** donde se puede usar DP:
   * Coin Change: [link](https://youtu.be/jaNZ83Q3QGc)
   * Matrix Chain Multiplication: [link1](https://youtu.be/prx1psByp7U), [link2](https://youtu.be/eKkXU3uu2zk)
-  * Longest Increasing Subsequence (LIS): [link](https://youtu.be/fV-TF4OvZpk)
+  * Longest Increasing Subsequence (LIS): [video](https://youtu.be/fV-TF4OvZpk), [explicación stackoverflow](https://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming)
   * Knapsack problem: [link](https://youtu.be/nLmhmB6NzcM)
   * Traveling Salesman Problem (TSP): [video](https://youtu.be/XaXsJJh-Q5Y), [implementación usando bitmasks](https://www.geeksforgeeks.org/bitmasking-dynamic-programming-set-2-tsp/)
   * Minimum Edit Distance Between 2 Strings - The Levenshtein Distance: [link1](https://youtu.be/Xxx0b7djCrs), [link2](https://youtu.be/MiqoA-yF-0M)
