@@ -653,5 +653,10 @@ _______________________________________________
   * **Puntos**: 3, 3, 5, 4, 6, 4, 4, 6  **Puntaje Mínimo Esperado**: 6
   * **códigos de ejemplo**: [A - Staircases](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1017_Staircases.cpp), [B - The Coin Change Problem](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/hackerrank/TheCoinChangeProblem.cpp), [E - Nested Dolls](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MDOLLS_NestedDolls.cpp), [F - Scuba diver](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/SCUBADIV_ScubaDiver.cpp), [G - Mixtures](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MIXTURES_Mixtures.cpp), [H - Card Sorting](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MCARDS_CardSorting.cpp)
   
+* Contest 7, Abril 18, 11 días, Dynamic Programming (DP), [link a **contest**](https://vjudge.net/contest/296015), link a **explicaciones**: _pending_
+  * **enunciados**: _pending_
+  * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+  * **códigos de ejemplo**: _pending_
+  
   
 
