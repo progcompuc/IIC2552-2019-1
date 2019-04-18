@@ -654,7 +654,7 @@ _______________________________________________
   * **códigos de ejemplo**: [A - Staircases](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/acm.timus.ru/1017_Staircases.cpp), [B - The Coin Change Problem](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/hackerrank/TheCoinChangeProblem.cpp), [E - Nested Dolls](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MDOLLS_NestedDolls.cpp), [F - Scuba diver](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/SCUBADIV_ScubaDiver.cpp), [G - Mixtures](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MIXTURES_Mixtures.cpp), [H - Card Sorting](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MCARDS_CardSorting.cpp)
   
 * Contest 7, Abril 18, 11 días, Dynamic Programming (DP), [link a **contest**](https://vjudge.net/contest/296015), link a **explicaciones**: _pending_
-  * **enunciados**: _pending_
+  * **enunciados**: [A](https://vjudge.net/problem/80113/origin),		[B](https://vjudge.net/problem/1284100/origin),		[C](https://vjudge.net/problem/47664/origin),		[D](https://vjudge.net/problem/21861/origin),		[E](https://vjudge.net/problem/25712/origin),		[F](https://vjudge.net/problem/20884/origin),		[G](https://vjudge.net/problem/47155/origin),		[H](https://vjudge.net/problem/1378602/origin)
   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
   * **códigos de ejemplo**: _pending_
   
