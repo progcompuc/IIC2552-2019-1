@@ -655,7 +655,7 @@ _______________________________________________
   
 * Contest 7, Abril 18, 11 días, Dynamic Programming (DP), [link a **contest**](https://vjudge.net/contest/296015), [link a **explicaciones**](https://docs.google.com/document/d/1QuYmoixfoMGeOs8AImV0t0lEndgysknR8eX3gJQXpu8/edit)
   * **enunciados**: [A](https://vjudge.net/problem/80113/origin),		[B](https://vjudge.net/problem/1284100/origin),		[C](https://vjudge.net/problem/47664/origin),		[D](https://vjudge.net/problem/21861/origin),		[E](https://vjudge.net/problem/25712/origin),		[F](https://vjudge.net/problem/20884/origin),		[G](https://vjudge.net/problem/47155/origin),		[H](https://vjudge.net/problem/1378602/origin)
-  * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+  * **Puntos**: 6, 7, 7, 5, 5, 4, 5, 4    **Puntaje Mínimo Esperado**: 7.2
   * **códigos de ejemplo**: _pending_
   
   
