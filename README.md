@@ -659,7 +659,7 @@ _______________________________________________
   * **códigos de ejemplo**: [B - Arranging Tiles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp), [C - Eleven](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12672_Eleven.cpp), [H - Enigma](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8192_Enigma.cpp)
   
   
- * Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), link a **explicaciones**: _pending_
+* Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), link a **explicaciones**: _pending_
   * **enunciados**: _pending_
   * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
   * **códigos de ejemplo**: _pending_
