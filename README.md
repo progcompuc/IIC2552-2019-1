@@ -375,6 +375,11 @@ ___________________________________________
     * http://jeffrey-xiao.github.io/#!/blog/posts/2015-12-14-Divide-and-Conquer-Optimization
     * https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14/editorial
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Dynamic_Programming/Divide%26ConquerOptimization.cpp     * https://www.youtube.com/watch?v=wLXEWuDWnzI
+    
+### Greedy:
+* https://www.geeksforgeeks.org/greedy-algorithms/
+* https://brilliant.org/wiki/greedy-algorithm/
+* https://en.wikipedia.org/wiki/Greedy_algorithm
    
 ### Graphs:
 * Slides de Nico Lehmann sobre Grafos:
@@ -658,7 +663,6 @@ _______________________________________________
   * **enunciados**: [A](https://vjudge.net/problem/80113/origin),		[B](https://vjudge.net/problem/1284100/origin),		[C](https://vjudge.net/problem/47664/origin),		[D](https://vjudge.net/problem/21861/origin),		[E](https://vjudge.net/problem/25712/origin),		[F](https://vjudge.net/problem/20884/origin),		[G](https://vjudge.net/problem/47155/origin),		[H](https://vjudge.net/problem/1378602/origin)
   * **Puntos**: 6, 7, 7, 5, 5, 4, 5, 4    **Puntaje Mínimo Esperado**: 7.2
   * **códigos de ejemplo**: [B - Arranging Tiles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp), [C - Eleven](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12672_Eleven.cpp), [H - Enigma](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8192_Enigma.cpp)
-  
   
 * Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), link a **explicaciones**: _pending_
   * **enunciados**: _pending_
