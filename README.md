@@ -28,6 +28,7 @@
     * [Backtracking](#backtracking)
     * [Binary & Ternary Search](#search)
     * [Dynamic Programming (DP)](#dynamic-programming-dp)
+    * [Greedy](#greedy)
     * [Graphs](#graphs)
     * [Data Structures](#data-structures)
     * [Strings](#strings)
