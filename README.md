@@ -142,9 +142,10 @@ Individual
 * Implementación, Fuerza Bruta, Backtracking (3 semanas)
 * Binary Search (2 semanas)
 * DP básico (2 semanas)
+* Algoritmos Greedy (1 semana)
 * Grafos básico (3 semanas)
-* Geometría básica (1 semana)
 * Matemática (3 semanas)
+* Geometría básica (1 semana)
 
 Grupal
 * Tutifruti (de todo, resto del semestre)
