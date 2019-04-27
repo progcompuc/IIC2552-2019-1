@@ -662,7 +662,7 @@ _______________________________________________
   
 * Contest 7, Abril 18, 11 días, Dynamic Programming (DP), [link a **contest**](https://vjudge.net/contest/296015), [link a **explicaciones**](https://docs.google.com/document/d/1QuYmoixfoMGeOs8AImV0t0lEndgysknR8eX3gJQXpu8/edit)
   * **enunciados**: [A](https://vjudge.net/problem/80113/origin),		[B](https://vjudge.net/problem/1284100/origin),		[C](https://vjudge.net/problem/47664/origin),		[D](https://vjudge.net/problem/21861/origin),		[E](https://vjudge.net/problem/25712/origin),		[F](https://vjudge.net/problem/20884/origin),		[G](https://vjudge.net/problem/47155/origin),		[H](https://vjudge.net/problem/1378602/origin)
-  * **Puntos**: 6, 7, 7, 5, 5, 4, 5, 4    **Puntaje Mínimo Esperado**: 7.2
+  * **Puntos**: 6, 7, 7, 5, 5, 4, 5, 4    **Puntaje Mínimo Esperado**: 4
   * **códigos de ejemplo**: [B - Arranging Tiles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp), [C - Eleven](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12672_Eleven.cpp), [E - Looking for Order](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/8C_LookingForOrder.cpp), [H - Enigma](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8192_Enigma.cpp)
   
 * Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), link a **explicaciones**: _pending_
