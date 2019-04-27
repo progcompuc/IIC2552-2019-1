@@ -665,8 +665,8 @@ _______________________________________________
   * **Puntos**: 6, 7, 7, 5, 5, 4, 5, 4    **Puntaje Mínimo Esperado**: 5
   * **códigos de ejemplo**: [B - Arranging Tiles](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/ArrangingTiles.cpp), [C - Eleven](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12672_Eleven.cpp), [E - Looking for Order](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/8C_LookingForOrder.cpp), [H - Enigma](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/8192_Enigma.cpp)
   
-* Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), link a **explicaciones**: _pending_
-  * **enunciados**: _pending_
+* Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), [link a **explicaciones**](https://docs.google.com/document/d/1IyXCnpzEt2jhUIMxcI6tx13lNVBkqFKleWfdymN-ibs/edit)
+  * **enunciados**: [A](https://vjudge.net/problem/53114/origin),		[B](https://vjudge.net/problem/254404/origin),		[C](https://vjudge.net/problem/527241/origin),		[D](https://vjudge.net/problem/1263975/origin),		[E](https://vjudge.net/problem/908661/origin),		[F](https://vjudge.net/problem/1971708/origin),		[G](https://vjudge.net/problem/21533/origin),		[H](https://vjudge.net/problem/908042/origin)
   * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
   * **códigos de ejemplo**: _pending_
   
