@@ -671,7 +671,7 @@ _______________________________________________
   * **códigos de ejemplo**: _pending_
  
  * Contest 9, Mayo 02, 11 días, Grafos (BFS / DFS), [link a **contest**](https://vjudge.net/contest/298372), link a **explicaciones**: _pending_
-  * **enunciados**: _pending_
-  * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
-  * **códigos de ejemplo**: _pending_  
+   * **enunciados**: _pending_
+   * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
+   * **códigos de ejemplo**: _pending_  
 
