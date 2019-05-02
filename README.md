@@ -669,6 +669,9 @@ _______________________________________________
   * **enunciados**: [A](https://vjudge.net/problem/53114/origin),		[B](https://vjudge.net/problem/254404/origin),		[C](https://vjudge.net/problem/527241/origin),		[D](https://vjudge.net/problem/1263975/origin),		[E](https://vjudge.net/problem/908661/origin),		[F](https://vjudge.net/problem/1971708/origin),		[G](https://vjudge.net/problem/21533/origin),		[H](https://vjudge.net/problem/908042/origin)
   * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
   * **códigos de ejemplo**: _pending_
-  
-  
+ 
+ * Contest 9, Mayo 02, 11 días, Grafos (BFS / DFS), [link a **contest**](https://vjudge.net/contest/298372), link a **explicaciones**: _pending_
+  * **enunciados**: _pending_
+  * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
+  * **códigos de ejemplo**: _pending_  
 
