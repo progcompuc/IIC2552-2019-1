@@ -389,8 +389,11 @@ ___________________________________________
 * Trees (Árboles): https://en.wikipedia.org/wiki/Tree_(graph_theory)
 * Play list sobre Grafos: https://www.youtube.com/playlist?list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j
 * Breadth First Search (BFS) & Depth First Search (DFS):
-  * https://www.youtube.com/watch?v=ImMnYq2zP4Y
-  * https://www.youtube.com/watch?v=zaBhtODEL0w
+  * [5.1 Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk)
+  * [Graph Traversals - Breadth First and Depth First](https://www.youtube.com/watch?v=bIA8HEEUxZI)
+  * [Graph : BFS, DFS](https://www.youtube.com/watch?v=ImMnYq2zP4Y)
+  * [Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w)
+  * Códigos de ejemplo: [DFS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/DFS.cpp) Y [BFS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/BFS.cpp)
 * Flood Fill: https://en.wikipedia.org/wiki/Flood_fill
 * Articulation Points (aka Cut Vertices), Bridges (aka Cut Edges) and Biconnected Components (aka Blocks): 
   * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
