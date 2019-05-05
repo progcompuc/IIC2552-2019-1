@@ -673,8 +673,8 @@ _______________________________________________
   * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
   * **códigos de ejemplo**: [C - Exams](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/732D_Exams.cpp)
  
- * Contest 9, Mayo 02, 11 días, Grafos (BFS / DFS), [link a **contest**](https://vjudge.net/contest/298372), link a **explicaciones**: _pending_
-   * **enunciados**: _pending_
-   * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: _pending_  
+ * Contest 9, Mayo 02, 11 días, Grafos (BFS / DFS), [link a **contest**](https://vjudge.net/contest/298372), [link a **explicaciones**](https://docs.google.com/document/d/1LvIzS4kxBqM4v0tsTqdYN0FKlRM5G67bPyPUcTcp3ZY/edit)
+   * **enunciados**: [A](https://vjudge.net/problem/306223/origin),		[B](https://vjudge.net/problem/2163530/origin),		[C](https://vjudge.net/problem/283837/origin),		[D](https://vjudge.net/problem/1477149/origin),		[E](https://vjudge.net/problem/77099/origin),		[F](https://vjudge.net/problem/47669/origin),		[G](https://vjudge.net/problem/418793/origin),		[H](https://vjudge.net/problem/13068/origin)
+   * **Puntos**: 3,4,5,5,4,6,5,4  **Puntaje Mínimo Esperado**: 5.6
+   * **códigos de ejemplo**: [C - Exposing corruption](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7207_ExposingCorruption.cpp),   [F - Join two kingdoms](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JoinTwoKingdoms.cpp), [G - Geophysics Prospection](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4010_GeophysicsProspection.cpp)
 
