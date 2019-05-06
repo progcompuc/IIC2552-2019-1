@@ -670,7 +670,7 @@ _______________________________________________
   
 * Contest 8, Abril 25, 11 días, Greedy, [link a **contest**](https://vjudge.net/contest/297681), [link a **explicaciones**](https://docs.google.com/document/d/1rVzlaa4fW3SVvK86FsuhRwYnt2ZxwhtD0nodskgU2Fc/edit?usp=sharing)
   * **enunciados**: [A](https://vjudge.net/problem/53114/origin),		[B](https://vjudge.net/problem/254404/origin),		[C](https://vjudge.net/problem/527241/origin),		[D](https://vjudge.net/problem/1263975/origin),		[E](https://vjudge.net/problem/908661/origin),		[F](https://vjudge.net/problem/1971708/origin),		[G](https://vjudge.net/problem/21533/origin),		[H](https://vjudge.net/problem/908042/origin)
-  * **Puntos**: _pending_    **Puntaje Mínimo Esperado**: _pending_
+  * **Puntos**: 4, 4, 4, 3, 3, 4, 3, 3    **Puntaje Mínimo Esperado**: 5.4
   * **códigos de ejemplo**: [C - Exams](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/Codeforces/732D_Exams.cpp)
  
  * Contest 9, Mayo 02, 11 días, Grafos (BFS / DFS), [link a **contest**](https://vjudge.net/contest/298372), [link a **explicaciones**](https://docs.google.com/document/d/1LvIzS4kxBqM4v0tsTqdYN0FKlRM5G67bPyPUcTcp3ZY/edit)
