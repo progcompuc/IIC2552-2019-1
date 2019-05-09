@@ -678,3 +678,8 @@ _______________________________________________
    * **Puntos**: 3, 4, 5, 5, 4, 6, 5, 4  **Puntaje Mínimo Esperado**: 5.6
    * **códigos de ejemplo**: [C - Exposing corruption](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7207_ExposingCorruption.cpp),   [F - Join two kingdoms](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JoinTwoKingdoms.cpp), [G - Geophysics Prospection](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4010_GeophysicsProspection.cpp)
 
+* Contest 10, Mayo 09, 11 días, Grafos - shortest paths(dijkstra, bellman-ford, floyd-warshall), [link a **contest**](https://vjudge.net/contest/300689), link a **explicaciones**: _pending_
+   * **enunciados**: _pending_
+   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+   * **códigos de ejemplo**: _pending_
+
