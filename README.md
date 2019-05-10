@@ -403,17 +403,20 @@ ___________________________________________
       * [Correctness of Dijkstra's Algorithm](https://www.youtube.com/watch?v=ZjSvU2guTtY)
       * [cp-algorithms: dijkstra (incluye código de ejemplo)](https://cp-algorithms.com/graph/dijkstra.html)
       * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp)
+      * [Código de ejemplo Ignacio](https://github.com/ignaciohermosillacornejo/apuntes_icpc/blob/master/graphs/dijsktra/dijsktra.cpp)
     * Bellman-Ford (cuando SÍ hay aristas negativas):
       * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
       * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
       * [Bellman-Ford Algorithm: Proof of Correctness](https://es.coursera.org/lecture/algorithms-on-graphs/bellman-ford-algorithm-proof-of-correctness-txk8R)
       * [Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming (17m)](https://www.youtube.com/watch?v=FtN3BYH2Zes)
       * [cp-algorithms: bellman-ford (incluye códigos de ejemplo)](https://cp-algorithms.com/graph/bellman_ford.html)
+      * [Código de ejemplo](https://github.com/ignaciohermosillacornejo/apuntes_icpc/blob/master/graphs/bellmanFord/bellmanFord.cpp)
   * De todos los nodos (**multiple source**) a todos los nodos:
     * Floyd-Warshall
       * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
       * [All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming (14m)](https://www.youtube.com/watch?v=oNI0rf2P9gE)
       * [cp-algorithms: floyd-warshall (incluye código de ejemplo)](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
+      * [Código de ejemplo](https://github.com/ignaciohermosillacornejo/apuntes_icpc/blob/master/graphs/floydWarshall/floydWarshall.cpp)
       
 * Articulation Points (aka Cut Vertices), Bridges (aka Cut Edges) and Biconnected Components (aka Blocks): 
   * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
@@ -699,5 +702,5 @@ _______________________________________________
 * Contest 10, Mayo 09, 11 días, Grafos - shortest paths(dijkstra, bellman-ford, floyd-warshall), [link a **contest**](https://vjudge.net/contest/300689), link a **explicaciones**: _pending_
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: _pending_
+   * **códigos de ejemplo**: [H - All Pairs Shortest Path](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Kattis/All%20Pairs%20Shortest%20Path/All%20Pairs%20Shortest%20Path.cpp)
 
