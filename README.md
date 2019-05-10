@@ -401,14 +401,19 @@ ___________________________________________
       * [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI)
       * [Dijkstra's Algorithm (5 minutos)](https://www.youtube.com/watch?v=gdmfOwyQlcI)
       * [Correctness of Dijkstra's Algorithm](https://www.youtube.com/watch?v=ZjSvU2guTtY)
+      * [cp-algorithms: dijkstra (incluye código de ejemplo)](https://cp-algorithms.com/graph/dijkstra.html)
       * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp)
     * Bellman-Ford (cuando SÍ hay aristas negativas):
       * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
       * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
       * [Bellman-Ford Algorithm: Proof of Correctness](https://es.coursera.org/lecture/algorithms-on-graphs/bellman-ford-algorithm-proof-of-correctness-txk8R)
       * [Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming (17m)](https://www.youtube.com/watch?v=FtN3BYH2Zes)
+      * [cp-algorithms: bellman-ford (incluye códigos de ejemplo)](https://cp-algorithms.com/graph/bellman_ford.html)
   * De todos los nodos (**multiple source**) a todos los nodos:
     * Floyd-Warshall
+      * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
+      * [All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming (14m)](https://www.youtube.com/watch?v=oNI0rf2P9gE)
+      * [cp-algorithms: floyd-warshall (incluye código de ejemplo)](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
       
 * Articulation Points (aka Cut Vertices), Bridges (aka Cut Edges) and Biconnected Components (aka Blocks): 
   * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
