@@ -395,6 +395,21 @@ ___________________________________________
   * [Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w)
   * Códigos de ejemplo: [DFS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/DFS.cpp) Y [BFS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/BFS.cpp)
 * Flood Fill: https://en.wikipedia.org/wiki/Flood_fill
+* Shortest Paths Algorithms:
+  * De un nodo (**single source**) a todos los demás nodos:
+    * Dijkstra (cuando NO hay aristas negativas):
+      * [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI)
+      * [Dijkstra's Algorithm (5 minutos)](https://www.youtube.com/watch?v=gdmfOwyQlcI)
+      * [Correctness of Dijkstra's Algorithm](https://www.youtube.com/watch?v=ZjSvU2guTtY)
+      * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp)
+    * Bellman-Ford (cuando SÍ hay aristas negativas):
+      * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
+      * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
+      * [Bellman-Ford Algorithm: Proof of Correctness](https://es.coursera.org/lecture/algorithms-on-graphs/bellman-ford-algorithm-proof-of-correctness-txk8R)
+      * [Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming (17m)](https://www.youtube.com/watch?v=FtN3BYH2Zes)
+  * De todos los nodos (**multiple source**) a todos los nodos:
+    * Floyd-Warshall
+      
 * Articulation Points (aka Cut Vertices), Bridges (aka Cut Edges) and Biconnected Components (aka Blocks): 
   * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
   * Graph Theory: 55. Bridges and Blocks: https://www.youtube.com/watch?v=iGsxKUzW3cs
@@ -408,10 +423,6 @@ ___________________________________________
 * Diameter of a Tree:
   * http://cs.stackexchange.com/questions/22855/algorithm-to-find-diameter-of-a-tree-using-bfs-dfs-why-does-it-work
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/diameter_of_tree.cpp
-* Dijkstra:
-  * https://www.youtube.com/watch?v=gdmfOwyQlcI
-  * https://www-m9.ma.tum.de/graph-algorithms/spp-dijkstra/index_en.html
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp
 * Minimum Spanning Tree:
   * Kruskal's Algorithm:
     * https://www.youtube.com/watch?v=71UQH7Pr9kU
