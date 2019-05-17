@@ -707,5 +707,5 @@ _______________________________________________
 * Contest 11, Mayo 16, 11 días, Grafos - shortest paths + toposort, [link a **contest**](https://vjudge.net/contest/301435), link a **explicaciones**: _pending_
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: _pending_
+   * **códigos de ejemplo**: [A - Wormholes](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Live%20Archive%20%26%20UVa/Wormholes/Wormholes.cpp)
 
