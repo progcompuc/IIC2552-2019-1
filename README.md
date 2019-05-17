@@ -395,6 +395,11 @@ ___________________________________________
   * [Algorithms: Graph Search, DFS and BFS](https://www.youtube.com/watch?v=zaBhtODEL0w)
   * Códigos de ejemplo: [DFS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/DFS.cpp) Y [BFS](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/BFS.cpp)
 * Flood Fill: https://en.wikipedia.org/wiki/Flood_fill
+* Topological Sort:
+  * [Topological Sort Algorithm | Graph Theory](https://www.youtube.com/watch?v=eL-KzMXSXXI)
+  * [Topological Sort Graph Algorithm](https://www.youtube.com/watch?v=ddTC4Zovtbc)
+  * [Códigos de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/TopoSort.cpp)
+  * [Codeforces - How to check cycles inside a Topological Sort](https://codeforces.com/blog/entry/4907)
 * Shortest Paths Algorithms:
   * De un nodo (**single source**) a todos los demás nodos:
     * Dijkstra (cuando NO hay aristas negativas):
@@ -443,9 +448,6 @@ ___________________________________________
     * Proof of Prim's MST algorithm using cut property: https://www.youtube.com/watch?v=UfhUr5QzfiI
     * Correctness of Kruskal's Algorithm: https://www.youtube.com/watch?v=S9PIItOUyzA
   * Example Code: https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/MinimumSpanningTree.cpp    
-* Topological Sort:
-  * https://www.youtube.com/watch?v=ddTC4Zovtbc
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/TopoSort.cpp
 * Lowest Common Ancestor (LCA):
   * General Overview of Methods:
     * http://codeforces.com/blog/entry/16221 (skip to the LCA part)
