@@ -713,5 +713,5 @@ _______________________________________________
 * Contest 11, Mayo 16, 11 días, Grafos - shortest paths + toposort, [link a **contest**](https://vjudge.net/contest/301435), link a **explicaciones**: _pending_
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: [A - Wormholes](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Live%20Archive%20%26%20UVa/Wormholes/Wormholes.cpp)
+   * **códigos de ejemplo**: [A - Wormholes](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Live%20Archive%20%26%20UVa/Wormholes/Wormholes.cpp), [B - Galactic Taxes](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13010_GalacticTaxes.cpp), [Keep it Energized](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7213_KeepItEnergized_v2.cpp), [Build Dependencies](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/BuildDependencies.cpp)
 
