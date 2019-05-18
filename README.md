@@ -416,12 +416,18 @@ ___________________________________________
       * [Bellman Ford Algorithm - Single Source Shortest Path - Dynamic Programming (17m)](https://www.youtube.com/watch?v=FtN3BYH2Zes)
       * [cp-algorithms: bellman-ford (incluye códigos de ejemplo)](https://cp-algorithms.com/graph/bellman_ford.html)
       * [Código de ejemplo](https://github.com/ignaciohermosillacornejo/apuntes_icpc/blob/master/graphs/bellmanFord/bellmanFord.cpp)
+      * ¿Cómo detectar un ciclo negativo con Bellman-Ford?
+        * [GeeksforGeeks - Detect a negative cycle in a Graph | (Bellman Ford)](https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/)
+        * [Proof of Correctness](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture14.pdf)
   * De todos los nodos (**multiple source**) a todos los nodos:
     * Floyd-Warshall
       * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
       * [All Pairs Shortest Path (Floyd-Warshall) - Dynamic Programming (14m)](https://www.youtube.com/watch?v=oNI0rf2P9gE)
       * [cp-algorithms: floyd-warshall (incluye código de ejemplo)](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
       * [Código de ejemplo](https://github.com/ignaciohermosillacornejo/apuntes_icpc/blob/master/graphs/floydWarshall/floydWarshall.cpp)
+      * ¿Qué pasa cuando hay ciclos negativos?
+        * [Behavior_with_negative_cycles (wikipedia)](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm#Behavior_with_negative_cycles)
+        * [Floyd-Warshall with negative cycles. How do I find all undefined paths?](https://stackoverflow.com/questions/15709277/floyd-warshall-with-negative-cycles-how-do-i-find-all-undefined-paths)
       
 * Articulation Points (aka Cut Vertices), Bridges (aka Cut Edges) and Biconnected Components (aka Blocks): 
   * Graph Theory: 53. Cut-Vertices: https://www.youtube.com/watch?v=BxAgmaLWaq4
