@@ -710,7 +710,7 @@ _______________________________________________
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
    * **códigos de ejemplo**: [E - Almost Shortest Path](https://github.com/mmunos/cp/tree/master/live%20archive/2008%20Latin%20America/4210%20-%20Almost%20Shortest%20Path), [H - All Pairs Shortest Path](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Kattis/All%20Pairs%20Shortest%20Path/All%20Pairs%20Shortest%20Path.cpp)
    
-* Contest 11, Mayo 16, 11 días, Grafos - shortest paths + toposort, [link a **contest**](https://vjudge.net/contest/301435), link a **explicaciones**: _pending_
+* Contest 11, Mayo 16, 11 días, Grafos - shortest paths + toposort, [link a **contest**](https://vjudge.net/contest/301435), link a [**explicaciones**](https://docs.google.com/document/d/1TDdEJDrhs8NlISViE8ZEM-Wymeg5uFeoIm4b_fwCNGA/edit)
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
    * **códigos de ejemplo**: [A - Wormholes](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Live%20Archive%20%26%20UVa/Wormholes/Wormholes.cpp), [B - Galactic Taxes](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/13010_GalacticTaxes.cpp), [C - Keep it Energized](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/7213_KeepItEnergized_v2.cpp), [E - Build Dependencies](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/BuildDependencies.cpp)
