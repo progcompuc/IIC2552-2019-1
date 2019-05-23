@@ -707,7 +707,7 @@ _______________________________________________
 
 * Contest 10, Mayo 09, 13 días, Grafos - shortest paths(dijkstra, bellman-ford, floyd-warshall), [link a **contest**](https://vjudge.net/contest/300689), [link a **explicaciones**](https://docs.google.com/document/d/1ieyUsYv_3lP1AYQ8vqvpcFcaG4qQtCxKnZHE5wCa1ck/edit)
    * **enunciados**: [A](https://vjudge.net/problem/20817/origin),		[B](https://vjudge.net/problem/38280/origin),		[C](https://vjudge.net/problem/20795/origin),		[D](https://vjudge.net/problem/14550/origin),		[E](https://vjudge.net/problem/14038/origin),		[F](https://vjudge.net/problem/16798/origin),		[G](https://vjudge.net/problem/20716/origin),		[H](https://vjudge.net/problem/1165069/origin)
-   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+   * **Puntos**: 4,	5,	4,	4,	5,	6,	5,	4  **Puntaje Mínimo Esperado**: 6.4
    * **códigos de ejemplo**: [E - Almost Shortest Path](https://github.com/mmunos/cp/tree/master/live%20archive/2008%20Latin%20America/4210%20-%20Almost%20Shortest%20Path), [H - All Pairs Shortest Path](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Kattis/All%20Pairs%20Shortest%20Path/All%20Pairs%20Shortest%20Path.cpp)
    
 * Contest 11, Mayo 16, 11 días, Grafos - shortest paths + toposort, [link a **contest**](https://vjudge.net/contest/301435), [link a **explicaciones**](https://docs.google.com/document/d/1TDdEJDrhs8NlISViE8ZEM-Wymeg5uFeoIm4b_fwCNGA/edit)
