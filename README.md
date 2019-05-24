@@ -555,7 +555,7 @@ ___________________________________________
      * [What's a Prime Number?](https://www.youtube.com/watch?v=9pgA-H77BLc)
      * [Wikipedia - Prime Number](https://en.wikipedia.org/wiki/Prime_number)
   * Teorema de fundamental del álgebra: todo natural tiene una única factorización prima
-     * (wikipedia - Fundamenetal theorem of arithmetic)[https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic]
+     * [wikipedia - Fundamenetal theorem of arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
      * [The Fundamental Theorem of Arithmetic](http://www.oxfordmathcenter.com/drupal7/node/165)
      * [Number Theory - Fundamental Theorem of Arithmetic](https://www.youtube.com/watch?v=7sw6LdAfHgE)
   * Tests de Primalidad (cómo saber si un número es primo):
