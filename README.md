@@ -554,17 +554,25 @@ ___________________________________________
   *  ¿Qué es un número primo?
      * [What's a Prime Number?](https://www.youtube.com/watch?v=9pgA-H77BLc)
      * [Wikipedia - Prime Number](https://en.wikipedia.org/wiki/Prime_number)
+  * Teorema de fundamental del álgebra: todo natural tiene una única factorización prima
+     * (wikipedia - Fundamenetal theorem of arithmetic)[https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic]
+     * [The Fundamental Theorem of Arithmetic](http://www.oxfordmathcenter.com/drupal7/node/165)
+     * [Number Theory - Fundamental Theorem of Arithmetic](https://www.youtube.com/watch?v=7sw6LdAfHgE)
   * Tests de Primalidad (cómo saber si un número es primo):
     * [CP-Algorithms: Primality tests](https://cp-algorithms.com/algebra/primality_tests.html)
     * Fastest algorithm for primality test: https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test
     * Miller Rabin:
+      * [cp-algorithms: Miller Rabin](https://cp-algorithms.com/algebra/primality_tests.html#toc-tgt-2)
       * https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
       * deterministic variant: https://miller-rabin.appspot.com/
   * Criba de Eratóstenes (todos los primos hasta N):
     * [Finding Prime numbers - Sieve of Eratosthenes](https://www.youtube.com/watch?v=eKp56OLhoQs)
     * [Criba de Eratóstenes [ICPCCL 2016]](https://www.youtube.com/watch?v=J4QCQ0dgeCI)
     * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
-  * Prime Factorization of Factorials: http://mathforum.org/library/drmath/view/67291.html
+    * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/prime_numbers.cpp)
+  * Factorización de Números Enteros:
+    * [cp-algorithms: Integer factorization](https://cp-algorithms.com/algebra/factorization.html)    
+    * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
     * Introduction to Modular arithmetic: https://www.youtube.com/watch?v=9lUSKOjV4d0
