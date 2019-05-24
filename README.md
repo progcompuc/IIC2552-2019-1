@@ -570,7 +570,7 @@ ___________________________________________
     * [Criba de Eratóstenes [ICPCCL 2016]](https://www.youtube.com/watch?v=J4QCQ0dgeCI)
     * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
     * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/prime_numbers.cpp)
-  * Factorización de Números Enteros:
+  * Factorización Prima de Números Enteros:
     * [cp-algorithms: Integer factorization](https://cp-algorithms.com/algebra/factorization.html)    
     * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
 * Aritmética Modular:
