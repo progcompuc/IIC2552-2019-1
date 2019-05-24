@@ -560,7 +560,7 @@ ___________________________________________
      * [Number Theory - Fundamental Theorem of Arithmetic](https://www.youtube.com/watch?v=7sw6LdAfHgE)
   * Tests de Primalidad (cómo saber si un número es primo):
     * [CP-Algorithms: Primality tests](https://cp-algorithms.com/algebra/primality_tests.html)
-    * Fastest algorithm for primality test: https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test
+    * [stackoverflow - Fastest algorithm for primality test](https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test)
     * Miller Rabin:
       * [cp-algorithms: Miller Rabin](https://cp-algorithms.com/algebra/primality_tests.html#toc-tgt-2)
       * https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
