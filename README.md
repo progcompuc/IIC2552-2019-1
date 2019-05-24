@@ -554,7 +554,8 @@ ___________________________________________
   *  ¿Qué es un número primo?
      * [What's a Prime Number?](https://www.youtube.com/watch?v=9pgA-H77BLc)
      * [Wikipedia - Prime Number](https://en.wikipedia.org/wiki/Prime_number)
-  * Tests de Primailidad:
+  * Tests de Primalidad (cómo saber si un número es primo):
+    * [CP-Algorithms: Primality tests](https://cp-algorithms.com/algebra/primality_tests.html)
     * Fastest algorithm for primality test: https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test
     * Miller Rabin:
       * https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
