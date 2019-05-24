@@ -551,13 +551,17 @@ ___________________________________________
 
 ### Mathematics:
 * Números Primos:
+  *  ¿Qué es un número primo?
+     * [What's a Prime Number?](https://www.youtube.com/watch?v=9pgA-H77BLc)
+     * [Wikipedia - Prime Number](https://en.wikipedia.org/wiki/Prime_number)
   * Tests de Primailidad:
     * Fastest algorithm for primality test: https://stackoverflow.com/questions/2586596/fastest-algorithm-for-primality-test
     * Miller Rabin:
       * https://www.geeksforgeeks.org/primality-test-set-3-miller-rabin/
       * deterministic variant: https://miller-rabin.appspot.com/
   * Criba de Eratóstenes (todos los primos hasta N):
-    * Criba de Eratóstenes [ICPCCL 2016]: https://www.youtube.com/watch?v=J4QCQ0dgeCI
+    * [Finding Prime numbers - Sieve of Eratosthenes](https://www.youtube.com/watch?v=eKp56OLhoQs)
+    * [Criba de Eratóstenes [ICPCCL 2016]](https://www.youtube.com/watch?v=J4QCQ0dgeCI)
     * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
   * Prime Factorization of Factorials: http://mathforum.org/library/drmath/view/67291.html
 * Aritmética Modular:
