@@ -736,6 +736,6 @@ _______________________________________________
 * Contest 12, Mayo 23, 11 días, Números Primos, [link a **contest**](https://vjudge.net/contest/303565), [link a **explicaciones**](https://docs.google.com/document/d/1FftVrfQtqcBDtWdv2ZE1DfpmICeSbs-Fop27TBVSKU4/edit)
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: [B - Prime Intervals](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/PRINT_PrimeIntervals.cpp), [C - Almost Prime](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Code%20Forces/Almost%20Prime/Almost%20Prime.cpp)
+   * **códigos de ejemplo**: [A - Primes Generator](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/PRIME1_PrimeGenerator.cpp), [B - Prime Intervals](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/PRINT_PrimeIntervals.cpp), [C - Almost Prime](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Code%20Forces/Almost%20Prime/Almost%20Prime.cpp)
 
 
