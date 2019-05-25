@@ -405,6 +405,7 @@ ___________________________________________
     * Dijkstra (cuando NO hay aristas negativas):
       * [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI)
       * [Dijkstra's Algorithm (5 minutos)](https://www.youtube.com/watch?v=gdmfOwyQlcI)
+      * [Muy buen ejemplo de Dijkstra](https://www.youtube.com/watch?v=5GT5hYzjNoo)
       * [Correctness of Dijkstra's Algorithm](https://www.youtube.com/watch?v=ZjSvU2guTtY)
       * [cp-algorithms: dijkstra (incluye código de ejemplo)](https://cp-algorithms.com/graph/dijkstra.html)
       * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Graphs/Dijkstra.cpp)
