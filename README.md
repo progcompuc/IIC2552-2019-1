@@ -570,6 +570,10 @@ ___________________________________________
     * [Criba de Eratóstenes [ICPCCL 2016]](https://www.youtube.com/watch?v=J4QCQ0dgeCI)
     * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
     * [Código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/prime_numbers.cpp)
+  * Criba de Eratóstenes Segmentada (más rápida):
+    * https://github.com/kimwalisch/primesieve/wiki/Segmented-sieve-of-Eratosthenes
+    * https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html#toc-tgt-6
+    * https://www.geeksforgeeks.org/segmented-sieve-print-primes-in-a-range/
   * Factorización Prima de Números Enteros:
     * [cp-algorithms: Integer factorization](https://cp-algorithms.com/algebra/factorization.html)    
     * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
@@ -732,6 +736,6 @@ _______________________________________________
 * Contest 12, Mayo 23, 11 días, Números Primos, [link a **contest**](https://vjudge.net/contest/303565), [link a **explicaciones**](https://docs.google.com/document/d/1FftVrfQtqcBDtWdv2ZE1DfpmICeSbs-Fop27TBVSKU4/edit)
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: [B - Almost Prime](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Code%20Forces/Almost%20Prime/Almost%20Prime.cpp)
+   * **códigos de ejemplo**: [B - Prime Intervals](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/PRINT_PrimeIntervals.cpp), [C - Almost Prime](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Code%20Forces/Almost%20Prime/Almost%20Prime.cpp)
 
 
