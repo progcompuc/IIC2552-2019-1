@@ -205,6 +205,7 @@ _________________________________
   * Tushar Roy - Coding Made Simple: https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
   * Programación Competitiva CL:  https://www.youtube.com/channel/UCmVg7YyMS8H-65WCmkVHB9g/feed
 * Repositorios con muchos códigos de ejemplo (implementaciones de algoritmos y estructuras de datos típicos):
+  * Team Notebook (muy bueno y completo): [link](https://github.com/pin3da/Programming-contest/blob/master/codes/notebook.pdf)
   * C++ Cheat Sheet for ACM ICPC : https://github.com/ntuorangejuice/cheat-sheet
   * Stanford University ICPC Team Notebook: https://cs.stanford.edu/group/acm/SLPC/notebook.pdf
   * Google Doc con muchos códigos (C++): https://docs.google.com/document/d/1rcex_saP4tExbbU62qGUjR3eenxOh-50i9Y45WtHkc4/edit
