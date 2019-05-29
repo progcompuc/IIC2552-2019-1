@@ -739,5 +739,8 @@ _______________________________________________
    * **enunciados**: _pending_
    * **Puntos**: 3, 4, 2, 8, 4, 4, 5, 4, 4  **Puntaje Mínimo Esperado**: 6
    * **códigos de ejemplo**: [A - Prime Generator](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/PRIME1_PrimeGenerator.cpp), [B - Prime Intervals](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/PRINT_PrimeIntervals.cpp), [B - Prime Intervals Ignacio](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/SPOJ/PRINT%20-%20Prime%20Intervals/PRINT%20-%20Prime%20Intervals.cpp), [C - Almost Prime](https://github.com/ignaciohermosillacornejo/competitive_programming/blob/master/Code%20Forces/Almost%20Prime/Almost%20Prime.cpp), [D - Prime Spiral](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/PrimeSpiral.cpp), [E - Prime Reduction](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/PrimeReduction.cpp), [H - Just in Time](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JustInTime.cpp), [I - Finding Primes](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/FINDPRM_FindingPrimes.cpp)
-
-
+   
+* Contest 13, Mayo 30, 11 días, Mix de Mate (gcd, modular arithmetics, binary exponentiaion, etc.), [link a **contest**](https://vjudge.net/contest/304342), link a **explicaciones**: _pending_
+   * **enunciados**: _pending_
+   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+   * **códigos de ejemplo**: _pending_
