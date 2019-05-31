@@ -581,17 +581,23 @@ ___________________________________________
     * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
+    * * https://en.wikipedia.org/wiki/Modular_arithmetic
     * Introduction to Modular arithmetic: https://www.youtube.com/watch?v=9lUSKOjV4d0
     * High level introduction to modular arithmetic: https://www.youtube.com/watch?v=r0gYad8auYY
-    * Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts: https://www.youtube.com/watch?v=B1gD6540uWA
+    * Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts: https://www.youtube.com/watch?v=B1gD6540uWA    
   * Modular Exponentiation By Squaring:
     * https://en.wikipedia.org/wiki/Modular_exponentiation#Right-to-left_binary_method
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
   * Modular Fibonacci with Exponentiation by Squaring:
     * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number
-  * Algoritmo de Euclides:
-    * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0
-    * GCD (greatest common divisor): https://www.youtube.com/watch?v=5jLWXwSXJdg
+  * GCD (greatest common divisor):
+    * Algoritmo de Euclides para encontrar el GCD entre 2 números:
+      * [(Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
+      * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
+    * [geeksforgeeks - std::gcd | C++ inbuilt function for finding GCD](https://www.geeksforgeeks.org/stdgcd-c-inbuilt-function-finding-gcd/)
+    
+  * Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
+    * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0    
     * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k
     * Multiplicative Inverse Mod N: https://www.youtube.com/watch?v=_bRVA5b4sb4
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
