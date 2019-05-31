@@ -587,9 +587,9 @@ ___________________________________________
 * Binary Exponentiation:
   * [cp-algorithms - Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)  
 * Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
+  * [extended euclidean algorithm](https://forthright48.com/extended-euclidean-algorithm/)
   * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0    
-  * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k
-  * Multiplicative Inverse Mod N: https://www.youtube.com/watch?v=_bRVA5b4sb4
+  * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k  
   * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
@@ -597,7 +597,9 @@ ___________________________________________
     * [Introduction to Modular arithmetic](https://www.youtube.com/watch?v=9lUSKOjV4d0)
     * [High level introduction to modular arithmetic](https://www.youtube.com/watch?v=r0gYad8auYY)
     * [Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts](https://www.youtube.com/watch?v=B1gD6540uWA)
-  * Modular Inverse: https://cp-algorithms.com/algebra/module-inverse.html
+  * Modular Inverse:
+    * [cp-algorithms - Modular Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
+    * [Youtube - Multiplicative inverses mod n](https://www.youtube.com/watch?v=_bRVA5b4sb4)
   * Modular Exponentiation By Squaring:
     * https://en.wikipedia.org/wiki/Modular_exponentiation#Right-to-left_binary_method
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
