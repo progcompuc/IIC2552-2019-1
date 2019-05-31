@@ -581,10 +581,10 @@ ___________________________________________
     * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
-    * * https://en.wikipedia.org/wiki/Modular_arithmetic
-    * Introduction to Modular arithmetic: https://www.youtube.com/watch?v=9lUSKOjV4d0
-    * High level introduction to modular arithmetic: https://www.youtube.com/watch?v=r0gYad8auYY
-    * Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts: https://www.youtube.com/watch?v=B1gD6540uWA    
+    * [Wikipedia - Modular Arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
+    * [Introduction to Modular arithmetic](https://www.youtube.com/watch?v=9lUSKOjV4d0)
+    * [High level introduction to modular arithmetic](https://www.youtube.com/watch?v=r0gYad8auYY)
+    * [Congruence (Modular Arithmetic) & 5 Properties Explained with 7 Problems: Ultimate Shortcuts](https://www.youtube.com/watch?v=B1gD6540uWA)
   * Modular Exponentiation By Squaring:
     * https://en.wikipedia.org/wiki/Modular_exponentiation#Right-to-left_binary_method
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
