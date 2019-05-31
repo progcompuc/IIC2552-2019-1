@@ -579,6 +579,18 @@ ___________________________________________
   * Factorización Prima de Números Enteros:
     * [cp-algorithms: Integer factorization](https://cp-algorithms.com/algebra/factorization.html)    
     * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
+* GCD (greatest common divisor):
+    * Algoritmo de Euclides para encontrar el GCD entre 2 números:
+      * [(Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
+      * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
+    * [geeksforgeeks - std::gcd | C++ inbuilt function for finding GCD](https://www.geeksforgeeks.org/stdgcd-c-inbuilt-function-finding-gcd/)
+* Binary Exponentiation:
+  * [cp-algorithms - Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)  
+* Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
+  * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0    
+  * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k
+  * Multiplicative Inverse Mod N: https://www.youtube.com/watch?v=_bRVA5b4sb4
+  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
     * [Wikipedia - Modular Arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
@@ -589,18 +601,7 @@ ___________________________________________
     * https://en.wikipedia.org/wiki/Modular_exponentiation#Right-to-left_binary_method
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
   * Modular Fibonacci with Exponentiation by Squaring:
-    * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number
-  * GCD (greatest common divisor):
-    * Algoritmo de Euclides para encontrar el GCD entre 2 números:
-      * [(Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
-      * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
-    * [geeksforgeeks - std::gcd | C++ inbuilt function for finding GCD](https://www.geeksforgeeks.org/stdgcd-c-inbuilt-function-finding-gcd/)
-    
-  * Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
-    * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0    
-    * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k
-    * Multiplicative Inverse Mod N: https://www.youtube.com/watch?v=_bRVA5b4sb4
-    * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp
+    * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number  
   * Modular Binomial Coefficient (Choose(n,k) mod X):
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
   * Modular Multinomial Coefficient:
