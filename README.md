@@ -752,5 +752,5 @@ _______________________________________________
    
 * Contest 13, Mayo 30, 11 días, Mix de Mate (gcd, modular arithmetics, binary exponentiaion, etc.), [link a **contest**](https://vjudge.net/contest/304342), link a **explicaciones**: _pending_
    * **enunciados**: _pending_
-   * **Puntos**: 7, 4, 6, 3, 4, 4, 10, 4, 2  **Puntaje Mínimo Esperado**: 6
+   * **Puntos**: 7, 4, 6, 3, 5, 4, 10, 4, 2  **Puntaje Mínimo Esperado**: 6
    * **códigos de ejemplo**: _pending_
