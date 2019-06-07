@@ -605,6 +605,7 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
   * Modular Fibonacci with Exponentiation by Squaring:
     * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number  
+* Conteo y Combinatoria modular:
   * Modular Binomial Coefficient (Choose(n,k) mod X):
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
   * Modular Multinomial Coefficient:
