@@ -577,8 +577,11 @@ ___________________________________________
     * https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html#toc-tgt-6
     * https://www.geeksforgeeks.org/segmented-sieve-print-primes-in-a-range/
   * Factorización Prima de Números Enteros:
-    * [cp-algorithms: Integer factorization](https://cp-algorithms.com/algebra/factorization.html)    
+    * [cp-algorithms: Integer factorization](https://cp-algorithms.com/algebra/factorization.html)
+  * Factorización Prima de Factoriales:
+    * [Prime Factorization of Factorial](https://forthright48.com/prime-factorization-of-factorial/)
     * [Prime Factorization of Factorials](http://mathforum.org/library/drmath/view/67291.html)
+
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
     * [Wikipedia - Modular Arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
@@ -636,6 +639,9 @@ ___________________________________________
   * [Chinese Remainder Theorem Part 2 – Non Coprime Moduli](https://forthright48.com/chinese-remainder-theorem-part-2-non-coprime-moduli)
   * [código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/chinese_remainder_theorem.cpp)
   
+* Lucas's theorem:
+  * [wikipedia - Lucas's theorem](https://en.m.wikipedia.org/wiki/Lucas%27s_theorem)
+  * [choose(n,k) mod M using Chinese remainder theorem?](https://math.stackexchange.com/questions/95491/n-choose-k-bmod-m-using-chinese-remainder-theorem)
   
 * Integración Numérica:
   * Wikipedia: https://en.wikipedia.org/wiki/Numerical_integration
