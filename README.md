@@ -625,7 +625,7 @@ ___________________________________________
 * Linear Diophantine Equations:
   * [N1--Introduction to Linear Diophantine Equations](https://www.youtube.com/watch?v=TIk3ujphMfk)
   * [N2--Solve Basic Linear Diophantine Equation](https://www.youtube.com/watch?v=5DcoG69NyO0)
-  * [Number Theory: Diophantine Equation: ax+by=gcd(a,b)(]https://www.youtube.com/watch?v=FjliV5u2IVw)
+  * [Number Theory: Diophantine Equation: ax+by=gcd(a,b)](https://www.youtube.com/watch?v=FjliV5u2IVw)
   * https://cp-algorithms.com/algebra/linear-diophantine-equation.html  
 
 * Linear Congruence Equation:
