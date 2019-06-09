@@ -597,6 +597,11 @@ ___________________________________________
   * Modular Fibonacci with Exponentiation by Squaring:
     * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number  
 
+* Euler's Theorem & Euler's Totient Function:
+  * [wikipedia - Euler's Theorem](https://en.wikipedia.org/wiki/Euler%27s_theorem)
+  * [wikipedia - Euler's Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
+  * [cp-algorithms: Euler's Totient Function](https://cp-algorithms.com/algebra/phi-function.html)
+
 * Binary Exponentiation:
   * [cp-algorithms - Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
   
