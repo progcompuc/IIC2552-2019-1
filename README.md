@@ -608,12 +608,12 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
   * Modular Multinomial Coefficient:
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_multinomial_coefficient.cpp
-* GCD (greatest common divisor) y el Algoritmo de Euclides:
-    * [Number Theory: Euclidean Algorithm - An example](https://www.youtube.com/watch?v=fwuj4yzoX1o)
-    * Algoritmo de Euclides para encontrar el GCD entre 2 números:
-      * [cp-algorithms: Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
-      * [(Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
-      * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
+* Algoritmo de Euclides:
+    * [youtube - Euclidean Algorithm (Proof)](https://www.youtube.com/watch?v=H_2_nqKAZ5w)
+    * [youtube - Number Theory: Euclidean Algorithm - An example](https://www.youtube.com/watch?v=fwuj4yzoX1o)    
+    * [cp-algorithms: Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+    * [youtube - (Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
+    * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
     * [geeksforgeeks - std::gcd | C++ inbuilt function for finding GCD](https://www.geeksforgeeks.org/stdgcd-c-inbuilt-function-finding-gcd/)
 * Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
   * [extended euclidean algorithm](https://forthright48.com/extended-euclidean-algorithm/)
