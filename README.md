@@ -608,7 +608,7 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
   * Modular Multinomial Coefficient:
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_multinomial_coefficient.cpp
-* Algoritmo de Euclides:
+* Algoritmo de Euclides (cómo encontrar el GCD entre dos números):
     * [youtube - Euclidean Algorithm (Proof)](https://www.youtube.com/watch?v=H_2_nqKAZ5w)
     * [youtube - Number Theory: Euclidean Algorithm - An example](https://www.youtube.com/watch?v=fwuj4yzoX1o)    
     * [cp-algorithms: Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
