@@ -596,22 +596,18 @@ ___________________________________________
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/binary_modular_exponentiation.cpp
   * Modular Fibonacci with Exponentiation by Squaring:
     * http://mathoverflow.net/questions/40816/fibonacci-series-mod-a-number  
-
 * Euler's Theorem & Euler's Totient Function:
   * [wikipedia - Euler's Theorem](https://en.wikipedia.org/wiki/Euler%27s_theorem)
   * [wikipedia - Euler's Totient Function](https://en.wikipedia.org/wiki/Euler%27s_totient_function)
   * [cp-algorithms: Euler's Totient Function](https://cp-algorithms.com/algebra/phi-function.html)
-
 * Binary Exponentiation:
-  * [cp-algorithms - Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
-  
+  * [cp-algorithms - Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)  
 * Conteo y Combinatoria modular:
   * [Muy buen artículo sobre distintos métodos para calcular combinatorias](https://comeoncodeon.wordpress.com/2011/07/31/combination/)
   * Modular Binomial Coefficient (Choose(n,k) mod X):
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_binomial_coefficient.cpp
   * Modular Multinomial Coefficient:
     * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/modular_multinomial_coefficient.cpp
-
 * GCD (greatest common divisor) y el Algoritmo de Euclides:
     * [Number Theory: Euclidean Algorithm - An example](https://www.youtube.com/watch?v=fwuj4yzoX1o)
     * Algoritmo de Euclides para encontrar el GCD entre 2 números:
@@ -619,35 +615,29 @@ ___________________________________________
       * [(Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
       * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
     * [geeksforgeeks - std::gcd | C++ inbuilt function for finding GCD](https://www.geeksforgeeks.org/stdgcd-c-inbuilt-function-finding-gcd/)
-
 * Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
   * [extended euclidean algorithm](https://forthright48.com/extended-euclidean-algorithm/)
   * [cp-algorithms: Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
-  * Algoritmo de Euclides [ICPCCL 2016]: https://www.youtube.com/watch?v=k47fkSULGr0    
-  * GCD extendido: https://www.youtube.com/watch?v=hB34-GSDT3k  
-  * https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp  
-  
+  * [youtube - Algoritmo de Euclides [ICPCCL 2016]](https://www.youtube.com/watch?v=k47fkSULGr0)
+  * [youtube - The Extended Euclidean algorithm](https://www.youtube.com/watch?v=hB34-GSDT3k)
+  * [código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp)  
 * Linear Diophantine Equations:
   * [N1--Introduction to Linear Diophantine Equations](https://www.youtube.com/watch?v=TIk3ujphMfk)
   * [N2--Solve Basic Linear Diophantine Equation](https://www.youtube.com/watch?v=5DcoG69NyO0)
   * [Number Theory: Diophantine Equation: ax+by=gcd(a,b)](https://www.youtube.com/watch?v=FjliV5u2IVw)
   * https://cp-algorithms.com/algebra/linear-diophantine-equation.html  
-
 * Linear Congruence Equation:
   * [cp-algorithms: Linear Congruence Equation](https://cp-algorithms.com/algebra/linear_congruence_equation.html)
-
 * Chinese Remainder Theorem:
   * [youtube - The Chinese Remainder Theorem made easy](https://www.youtube.com/watch?v=ru7mWZJlRQg)
   * [youtube - Chinese Remainder Theorem](https://www.youtube.com/watch?v=zIFehsBHB8o)
   * [codeforces - [Tutorial] Chinese Remainder Theorem](https://codeforces.com/blog/entry/61290)
   * [Chinese Remainder Theorem Part 1 – Coprime Moduli](https://forthright48.com/chinese-remainder-theorem-part-1-coprime-moduli/)
   * [Chinese Remainder Theorem Part 2 – Non Coprime Moduli](https://forthright48.com/chinese-remainder-theorem-part-2-non-coprime-moduli)
-  * [código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/chinese_remainder_theorem.cpp)
-  
+  * [código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/chinese_remainder_theorem.cpp)  
 * Lucas's theorem:
   * [wikipedia - Lucas's theorem](https://en.m.wikipedia.org/wiki/Lucas%27s_theorem)
-  * [choose(n,k) mod M using Chinese remainder theorem?](https://math.stackexchange.com/questions/95491/n-choose-k-bmod-m-using-chinese-remainder-theorem)
-  
+  * [choose(n,k) mod M using Chinese remainder theorem?](https://math.stackexchange.com/questions/95491/n-choose-k-bmod-m-using-chinese-remainder-theorem)  
 * Integración Numérica:
   * Wikipedia: https://en.wikipedia.org/wiki/Numerical_integration
   * Codeforces: Tasks involving numerical integration: https://codeforces.com/blog/entry/8242
