@@ -794,7 +794,7 @@ _______________________________________________
    * **Puntos**: 7, 4, 6, 3, 5, 4, 10, 4, 2  **Puntaje Mínimo Esperado**: 6
    * **códigos de ejemplo**: [A - Yet Another Multiple Problem](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/SPOJ/MULTII_YetAnotherMultipleProblem.cpp), [E - Last Digit](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/4008_LastDigit.cpp), [G - Bases](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12145_Bases.cpp), [H - Even Distribution](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6825_EvenDistribution.cpp)
  
-* Contest 14, Junio 06, 11 días, Conteo y combinatoria modular, [link a **contest**](https://vjudge.net/contest/305525), link a **explicaciones**: _pending_
+* Contest 14, Junio 06, 11 días, Conteo y combinatoria modular, [link a **contest**](https://vjudge.net/contest/305525), [link a **explicaciones**](https://docs.google.com/document/d/1vZpOS2OJgORY3rm3r8r4e-2vK1dSiKvj90dFeCNcMKs/edit)
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
    * **códigos de ejemplo**: _pending_
