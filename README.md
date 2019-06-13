@@ -788,3 +788,8 @@ _______________________________________________
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
    * **códigos de ejemplo**: _pending_
+
+* Contest 15, Junio 13, 11 días, euclides extendido (gcdext) y teorema del resto chino (CRT), [link a **contest**](https://vjudge.net/contest/305759), link a **explicaciones**: _pending_
+   * **enunciados**: _pending_
+   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+   * **códigos de ejemplo**: _pending_ 
