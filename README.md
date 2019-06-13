@@ -615,7 +615,7 @@ ___________________________________________
     * [youtube - (Discrete Math 1) Euclidian Algorithm](https://www.youtube.com/watch?v=cOwyHTiW4KE)
     * [Euclidean Algorithm – Greatest Common Divisor](https://forthright48.com/euclidean-algorithm)      
     * [geeksforgeeks - std::gcd | C++ inbuilt function for finding GCD](https://www.geeksforgeeks.org/stdgcd-c-inbuilt-function-finding-gcd/)
-* Algoritmo de Euclides Extendido (a.k.a. GCD extendido):
+* Algoritmo de Euclides Extendido (a.k.a. GCD extendido, gcdext):
   * [extended euclidean algorithm](https://forthright48.com/extended-euclidean-algorithm/)
   * [cp-algorithms: Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
   * [youtube - Algoritmo de Euclides [ICPCCL 2016]](https://www.youtube.com/watch?v=k47fkSULGr0)
@@ -628,7 +628,7 @@ ___________________________________________
   * https://cp-algorithms.com/algebra/linear-diophantine-equation.html  
 * Linear Congruence Equation:
   * [cp-algorithms: Linear Congruence Equation](https://cp-algorithms.com/algebra/linear_congruence_equation.html)
-* Chinese Remainder Theorem:
+* Chinese Remainder Theorem (CRT):
   * [youtube - The Chinese Remainder Theorem made easy](https://www.youtube.com/watch?v=ru7mWZJlRQg)
   * [youtube - Chinese Remainder Theorem](https://www.youtube.com/watch?v=zIFehsBHB8o)
   * [codeforces - [Tutorial] Chinese Remainder Theorem](https://codeforces.com/blog/entry/61290)
