@@ -787,9 +787,9 @@ _______________________________________________
 * Contest 14, Junio 06, 11 días, Conteo y combinatoria modular, [link a **contest**](https://vjudge.net/contest/305525), [link a **explicaciones**](https://docs.google.com/document/d/1vZpOS2OJgORY3rm3r8r4e-2vK1dSiKvj90dFeCNcMKs/edit)
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: _pending_
+   * **códigos de ejemplo**: [B - Eleven](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/UVA/12672_Eleven.cpp), [E - Knights of the Round Table](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/LiveArchive/6831_KnightsOfTheRoundTable.cpp), [H - Jumping Frog](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/URI/JumpingFrog.cpp)
 
-* Contest 15, Junio 13, 11 días, euclides extendido (gcdext) y teorema del resto chino (CRT), [link a **contest**](https://vjudge.net/contest/305759), link a **explicaciones**: _pending_
+* Contest 15, Junio 13, 11 días, euclides extendido (gcdext) y teorema del resto chino (CRT), [link a **contest**](https://vjudge.net/contest/305759), [link a **explicaciones**](https://docs.google.com/document/d/16VCZix2gKmLkSNjKYckUNAQ8E3jAT8S8e1TsVDIsaSI/edit)
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
-   * **códigos de ejemplo**: _pending_ 
+   * **códigos de ejemplo**: [H - Chinese Remainder Theorem (non...)](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/generalchineseremainder.cpp)
