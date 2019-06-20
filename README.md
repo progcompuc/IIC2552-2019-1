@@ -793,3 +793,9 @@ _______________________________________________
    * **enunciados**: _pending_
    * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
    * **códigos de ejemplo**: [H - Chinese Remainder Theorem (non...)](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Solved%20problems/kattis/generalchineseremainder.cpp)
+
+* Contest 16, Junio 20, 11 días, tutifruti, [link a **contest**](https://vjudge.net/contest/307302), link a **explicaciones**: _pending_
+   * **enunciados**: _pending_
+   * **Puntos**: _pending_  **Puntaje Mínimo Esperado**: _pending_
+   * **códigos de ejemplo**: _pending_
+   
