@@ -619,6 +619,7 @@ ___________________________________________
 * Algoritmo de Euclides Extendido (a.k.a. GCD extendido, gcdext):
   * [extended euclidean algorithm](https://forthright48.com/extended-euclidean-algorithm/)
   * [cp-algorithms: Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
+  * [gcdext con números negativos?](https://math.stackexchange.com/questions/37806/extended-euclidean-algorithm-with-negative-numbers)
   * [youtube - Algoritmo de Euclides [ICPCCL 2016]](https://www.youtube.com/watch?v=k47fkSULGr0)
   * [youtube - The Extended Euclidean algorithm](https://www.youtube.com/watch?v=hB34-GSDT3k)
   * [código de ejemplo](https://github.com/PabloMessina/Competitive-Programming-Material/blob/master/Mathematics/euclidean_algorithm.cpp)  
