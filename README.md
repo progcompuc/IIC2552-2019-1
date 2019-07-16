@@ -584,6 +584,7 @@ ___________________________________________
 
 * Aritmética Modular:
   * ¿De qué se trata Aritmética Modular?
+    * [Art of Problem Solving: Modular Arithmetic / Introduction](https://artofproblemsolving.com/wiki/index.php/Modular_arithmetic/Introduction)
     * [Wikipedia - Modular Arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
     * [Introduction to Modular arithmetic](https://www.youtube.com/watch?v=9lUSKOjV4d0)
     * [High level introduction to modular arithmetic](https://www.youtube.com/watch?v=r0gYad8auYY)
