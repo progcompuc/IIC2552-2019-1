@@ -34,6 +34,7 @@
     * [Strings](#strings)
     * [Mathematics](#mathematics)
     * [Geometry](#geometry)
+    * [Square Root Decomposition](#square-root-decomposition)
 * [Contests](#contests)
 
 # Introducción
@@ -716,6 +717,12 @@ ___________________________________________
   * https://wcipeg.com/wiki/Convex_hull_trick
   * https://stackoverflow.com/questions/17834699/what-is-convex-hull-trick-exactly
 
+### Square Root Decomposition
+  * [cp-algorithms: square decomposition](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+  * Mo's Algorithm:
+    * [cp-algorhtms: Mo's algorithm](https://cp-algorithms.com/data_structures/sqrt_decomposition.html#toc-tgt-4)
+    * [geeksforgeeks: Mo's algorithm (query square root decomposition)](https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/)
+    * [geeksforgeeks: extended Mo's algorithm (O(1) time complexity)](https://www.geeksforgeeks.org/extended-mos-algorithm-o1-time-complexity/)
 _______________________________________________
 
 # Contests
